@@ -10,7 +10,6 @@ __pycache__/
 *.pkl
 
 # Veri klasörü (ses kayıtları, datasetler)
-data/
 temp/
 audio_model/
 *.wav

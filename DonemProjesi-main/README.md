@@ -21,8 +21,7 @@ Bu platform, çağrı merkezi ses kayıtlarını yapay zeka ile analiz eden çok
 
 - Python 3.10+
 - CUDA destekli GPU (önerilen)
-- [VB-Audio Virtual Cable](https://vb-audio.com/Cable/) (canlı kayıt için)
-- [VoiceMeeter](https://vb-audio.com/Voicemeeter/) (canlı kayıt için)
+
 
 ### Bağımlılıkları Yükle
 
