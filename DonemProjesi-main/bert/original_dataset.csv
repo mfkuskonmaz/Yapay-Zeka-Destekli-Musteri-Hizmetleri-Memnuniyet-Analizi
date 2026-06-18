@@ -1,0 +1,1804 @@
+"Günaydın, [Şirket Adı] müşteri desteğini aradığınız için teşekkür ederiz. Ben [Temsilci Adı]; bugün size nasıl yardımcı olabilirim?",1
+"Günaydın ve Best Butlers müşteri desteğini aradığınız için teşekkürler. Ben Reginald; bugün size nasıl yardımcı olabilirim?",1
+"[Şirket Adı]'nı aradığınız için teşekkür ederim! Benim adım [Adınız] ve bugün size yardımcı olmaktan heyecan duyuyorum. Bize ilk kez ulaştığınızı görüyorum. Topluluğumuza hoş geldiniz; sizi aramızda görmekten mutluluk duyuyoruz! Bugün sizin için ne yapabilirim?",1
+"Ölüm Yıldızı Yardım Hattı'nı aradığınız için teşekkür ederim! Benim adım Stormtrooper TK-801 ve bugün size yardımcı olmaktan heyecan duyuyorum. Anladığım kadarıyla ilk kez bizimle iletişime geçiyorsunuz. Topluluğumuza hoş geldiniz; sizi aramızda görmekten mutluluk duyuyoruz! Bugün sizin için ne yapabilirim?",1
+"Merhaba, [Müşteri Adı]! [X] müşterimiz olduğunuz için teşekkür ederiz—bugün size nasıl yardımcı olabilirim?",1
+"Bunu duyduğuma üzüldüm, biliyorum rahatsız edici bir durum. Siparişinizin durumunu hemen kontrol edeyim. Sipariş numaranızı verebilir misiniz?",1
+"Sabrınız için teşekkür ederiz, [Müşteri Adı]. Teslimatınızın [varsa sebep] nedeniyle geciktiği anlaşılıyor. Bunun can sıkıcı olduğunu biliyorum. Bu durumu çözmek için attığımız adımlar şunlardır",1
+"Ah hayır, bunu duyduğuma çok üzüldüm Bay Saruman. Bunun sizin için sakıncalı olduğunun farkındayım. Siparişinizin durumunu hemen kontrol edeyim. Sipariş numaranızı verebilir misiniz?",1
+"Ah hayır! Karışıklık için özür dilerim, [Müşteri Adı]. Bu hoş olmayan bir sürpriz olmalı. Bunu hemen sizin için halledelim. Lütfen sipariş numaranızı ve [varsa] aldığınız ürün ile beklediğiniz ürünün kısa bir açıklamasını paylaşır mısınız?",1
+"Verdiğimiz rahatsızlıktan dolayı özür dileriz ve size [indirim, para iadesi veya mağaza kredisi gibi herhangi bir seçenekten bahsedin] sunmak isteriz.",1
+"[İsim] Anlattığınızı anlıyorum. [Belirtilen hizmet/ürün] için tahsil edilen tutar yanlış. Hemen araya girip bunu düzelteyim ve [tutar] tutarında bir geri ödeme yapayım. Bu düzeltmeyi bir sonraki fatura ekstrenizde göreceksiniz.",1
+"Öncelikle en güncel kullanıcı adı ve şifreyi girdiğinizden emin olalım. Herhangi bir hata mesajı görüyor musunuz?",1
+"Birkaç temel sorun giderme adımını deneyelim. Öncelikle, tarayıcınızın önbelleğini ve çerezlerini temizleyin ve bunun bir fark yaratıp yaratmadığını bana bildirin.",1
+"O ekranda herhangi bir hata mesajı alıyor musunuz?",1
+"Olan biteni anlamama yardımcı olmak için lütfen aşağıdaki bilgileri benimle paylaşır mısınız:
+"Hangi cihazı ve işletim sistemini kullanıyorsunuz?"
+"Yazılımımızın/uygulamamızın hangi sürümünü kullanıyorsunuz?",1
+"Sisteminizde veya ağınızda son zamanlarda herhangi bir değişiklik oldu mu?",1
+"Sorunu tespit etmek için birkaç temel teşhis adımını birlikte uygulayalım. Korkutucu bir şey yok, söz veriyorum.",1
+"Cihazınızı yeniden başlatın, ardından özelliğe tekrar erişmeyi deneyin.",1
+"Yazılımımız/uygulamamız için mevcut güncellemeleri kontrol edin ve yükleyin.",1
+"İnternet bağlantınızın stabil olduğundan emin olun. Mümkünse farklı bir ağa bağlanmayı deneyin.",1
+"Güvenlik duvarını veya antivirüs yazılımını geçici olarak devre dışı bırakarak müdahale edip etmediğini kontrol edin.",1
+"Anladım! Güncellenmesini istediğiniz bilgileri bana bildirebilir misiniz? Detayları verirseniz, sizin için halledebilirim.",1
+"Hesabınızı etkinleştirmenize yardımcı olabilirim. Etkinleştirme bağlantısını doğrulamak için e-postanıza erişebiliyor musunuz?",1
+"İsteğiniz üzerine hesabınızı devre dışı bıraktım. Hesabınızı tekrar etkinleştirmek isterseniz lütfen bizimle tekrar iletişime geçmeyin. İstediğiniz zaman tekrar etkinleştirebilirim.",1
+"Lütfen şifre sıfırlama bağlantısı için e-postanızı kontrol edin ve şifrenizi başarıyla değiştirdikten sonra bana bildirin.",1
+"Bu gerçekten üzücü. Bu durum için üzgünüm ve bunu en kısa sürede çözmek için elimden gelenin en iyisini yapacağım.",1
+"Sabrınız için teşekkür ederim. Bu sorunu çözmek için yapabileceğim şeyler şunlardır: [Sorunu çözmek için atacağınız adımları açıklayın]. Bu size uygun mu?",1
+"Güvenlik amacıyla, lütfen tam adınızı ve hesabınızla ilişkili e-posta adresinizi teyit edebilir misiniz?",1
+"Devam etmeden önce, bu görüşme sırasında paylaşılan tüm bilgilerin azami gizlilikle ele alınacağını ve yalnızca sorununuzu çözmek için kullanılacağını bilmenizi isterim.",1
+"Bunu açıkladığınız için teşekkür ederim, [Müşteri Adı]. Doğru yardımı almak için uzmanımızla görüşmeniz gerekeceğini düşünüyorum. İhtiyacınız olan yardımı aldığınızdan emin olmak için sizi [ilgili alan] uzmanımıza bağlayayım. Çağrınızı aktarırken sizi kısa bir süre beklemeye alabilir miyim?",1
+"Bu sorunu çözmek için yöneticimle görüşmeniz gerekecek gibi görünüyor. Sizi ona aktarmak istiyorum. Sizin için uygun mu?",1
+"Yaşadığınız sıkıntılar için gerçekten çok üzgünüm. Bunun ne kadar sinir bozucu olduğunu tamamen anlıyorum ve böyle bir şeyin yaşanmış olmasından dolayı çok üzgünüm. Bunu birlikte çözeceğiz.",1
+"Merhaba, ben [Şirket Adı]'ndan [Adınız]. Destek ekibimizle yakın zamanda gerçekleştirdiğiniz görüşmeyle ilgili her şeyin yolunda gittiğinden emin olmak için arıyorum. Şimdi görüşmek için uygun bir zaman mı?",1
+"Doğrulama amacıyla, lütfen tam adınızı ve hesabınızla ilişkili e-posta adresinizi onaylayabilir misiniz?",1
+"Çok teşekkür ederim. 4 Temmuz 2012'de New York'ta yaşanan uzaylı istilasıyla ilgili bildirdiğiniz konu hakkında bilgi almak için iletişime geçiyorum.",1
+"Görünüşe göre bu sorunu araştırmak için biraz zamana ihtiyacımız olacak. Daha fazla bilgi edindiğimizde sizinle tekrar iletişime geçebilir miyim? [Belirtilen zaman dilimi] içinde bir güncelleme alacağımızı düşünüyorum.",1
+"Lütfen sorunun sizin tarafınızda tamamen çözüldüğünü kontrol edip teyit edebilir misiniz? Bu sorunla ilgili yardıma ihtiyacınız olan başka bir şey var mı?",1
+"Bu sorunu sizin için çözebildiğimize sevindim. Başka bir konuda yardıma ihtiyacınız olursa lütfen çekinmeden bize ulaşın.",1
+"Tekrar çok özür dilerim, verdiğimiz rahatsızlıktan dolayı. Durumu düzeltme şansı verdiğiniz için teşekkür ederim. İyi günler dilerim, yakında tekrar iletişime geçeceğiz.",1
+"Görünüşe göre hala [ürün/hizmet] kullanıyorsunuz. Ayrıca, sahip olduğunuz ürün/hizmetle çok iyi çalışan [ilgili ürün/hizmet] de sunuyoruz. Örneğin, [faydalarını açıklayın]. Daha fazla bilgi edinmek ister misiniz?",1
+"Hizmetlerimizi sürekli iyileştirmenin yollarını arıyoruz, bu nedenle geri bildirimlerinizi duymak isteriz. Bugün bizimle yaşadığınız deneyim hakkında birkaç dakikanızı ayırıp bilgi paylaşabilir misiniz?",1
+"Merhaba [müşteri adı], bizimle iletişime geçtiğiniz için teşekkür ederiz. Siparişinizde bir sorun olabileceğini anlıyoruz. Şu anda durumu inceliyoruz ve ne olduğunu öğrenir öğrenmez size geri döneceğiz.",1
+"Desteğe ulaştığınız için teşekkürler. Size nasıl yardımcı olabilirim?",1
+"Merhaba, ben [İsim]. Bugün size hangi konuda destek sağlayabilirim?",1
+"Bize ulaştığınız için teşekkürler. Talebiniz alındı, kısa süre içinde dönüş yapacağız.",1
+"Sistemlerimizde bir yoğunluk var, anlayışınız için teşekkür ederiz.",1
+"Güvenliğiniz için lütfen tam adınızı ve doğum tarihinizi doğrular mısınız?",1
+"İşleminize devam edebilmem için hesap numaranızı paylaşır mısınız?",1
+"Sorunun ne zaman başladığına dair biraz daha detay verebilir misiniz?",1
+"Bahsettiğiniz hatanın ekran görüntüsünü veya hata kodunu paylaşabilir misiniz?",1
+"Kayıtlı e-posta adresinize bir doğrulama kodu gönderdim, kontrol eder misiniz?",1
+"Lütfen hattan ayrılmayın, bilgilerinizi kontrol ediyorum.",1
+"Sizi konuyla ilgili uzman departmanımıza aktarıyorum.",1
+"İşleminiz biraz zaman alabilir, sizi 2 dakika bekletebilir miyim?",1
+"Talebinizi bir üst birime ilettim, inceleme devam ediyor.",1
+"Sabrınız için teşekkür ederim, sistemlerimize erişim sağladım.",1
+"Bu sorunu çözmek için şu adımları izleyeceğiz: [Adımlar].",1
+"Talebiniz doğrultusunda paket değişikliğinizi onaylıyor musunuz?",1
+"İptal işleminiz başarıyla tamamlandı. Onay maili tarafınıza ulaştırıldı.",1
+"Ödemeniz alındı, faturanız sistemdeki adresinize gönderilecektir.",1
+"Önerdiğim bu çözüm yolu sizin için uygun mu?",1
+"Başka bir konuda yardımcı olmamı ister misiniz?",1
+"Bizi tercih ettiğiniz için teşekkür eder, iyi günler dileriz.",1
+"Görüşmemiz bittikten sonra kısa bir anketimize katılmak ister misiniz?",1
+"İyi çalışmalar dilerim, hoşça kalın.",1
+"Merhaba",1
+"İyi günler",1
+"Kolay gelsin",1
+“Günaydın! Müşteri Hizmetlerine hoş geldiniz. Benim adım AB. Size nasıl yardım edebilirim?”,1
+“Merhaba hoşgeldiniz! Müşteri Hizmetlerinde AB’ye bağlandınız. Size nasıl yardımcı olabilirim?”,1
+“Sizi tekrar burada görmek güzel, XYZ. Bu sefer size nasıl yardımcı olabilirim?,1
+“Bunu fark ettiğiniz ve bize bildirdiğiniz için teşekkürler. Bu konu hakkında en kısa sürede sizlere destek vereceğiz.”,1
+“Karşılaştığınız sorun hakkında daha fazla bilgi verir misiniz? Ne zamandan beri bu sorunu yaşıyorsunuz?,1
+“Sipariş numaranızı/teslimat adresinizi/şikayet numaranızı onaylar mısınız?”,1
+“Bu sorunla yüzleşmek zorunda kaldığınızı duyduğuma üzüldüm. Daha iyi anlayabilmem için biraz daha detaylandırabilir misiniz?”,1
+“Üzgünüm, yanlış departmana bağlı görünüyorsunuz. Sizi doğru departmana aktarmam için hatta bekleyebilir misiniz.”,1
+“Sorunuzu anlıyorum fakat bu konuda yardımcı olacak doğru kişi ben değilim. Sizi bu tür konularda uzman olan departmana bağlayacağım.”,1
+” Ayşe Hanım, aradığınız bilgiyi bulmam biraz zaman alabilir. O zamana kadar sizi bekletebilir miyim?”,1
+“Sorunuzu anlıyorum Ahmet Bey, fakat bu konudaki güncellemelerle ilgili ekibime danışmam gerekiyor, sizi kısa bir süre bekletebilir miyim?",1
+“Talebinizi anlıyorum Leyla Hanım, sizi bu konuda yardımcı olacak ekibe yönlendireceğim, lütfen hatta bekler misiniz?",1
+“Merhaba Ayşegül Hanım, yaşadığınız tatsız deneyim için üzüldük. Sorununuz için en erken çözümü bulmaya çalışacağız.”,1
+“Merhaba Ayşe Hanım, bu nedenle size verdiğimiz rahatsızlıktan dolayı içtenlikle özür dileriz. Sorunu bir an önce çözelim.”,1
+“Merhaba Ahmet Bey, bunu duyduğuma üzüldüm, şirketimiz adına özür dilerim”,1
+“Yaşadığınız aksaklık için üzgün olmanızı tamamen anlıyorum, kötü bir deneyim yaşadınız.”,1
+“Uzun süre bir siparişi beklemek söylediğiniz gibi can sıkıcı, bunu telafi etmemiz için neler yapabileceğimize bakalım.”,1
+“Sorununuzu anlıyoruz. Ancak şu anda talebinizi karşılayamıyoruz.”,1
+“Karşılaştığınız sorunu anlıyorum ancak iç politikamızda bu konuda herhangi bir hüküm bulunmamaktadır. Bunun için özür dileriz.”,1
+“Bizimle iletişime geçtiğiniz için teşekkür ederiz. İhtiyacınız olduğunda size daha fazla yardımcı olmak için sabırsızlanıyoruz.”,1
+“Merhaba ‘Şirket adı’ çağrı merkezine hoş geldiniz. Aradığınız için teşekkür ederiz. Hizmet kalitesini artırmak adına kalite standartları gereği konuşmalar kaydedilmektedir. KVKK metni için ….com sitesinden bilgi alabilirsiniz.”,1
+“Merhaba ‘Şirket adı’ çağrı merkezini aradığınız için teşekkür ederiz. Kısa bir süre içinde müşteri temsilcimize bağlanacaksınız”.,1
+“Dahili numarayı biliyorsanız 1’e bilmiyorsanız 2’ye basın.”,1
+“Merhaba, size yardımcı olabilmemiz için sorununuzu birkaç kelime ile belirtebilir misiniz? Örneğin fatura sorgulama, sipariş takibi”,1
+“Şu anda tüm temsilcilerimiz diğer müşterilere hizmet verdiği için size yardımcı olamamaktadır. Birazdan temsilcimiz size yardımcı olacaktır. Beklediğiniz için teşekkür ederiz.”,1
+“Lütfen hatta kalın, tüm temsilcilerimiz şu anda meşgul. Aramanıza en kısa sürede cevap vereceğiz.”,1
+“Lütfen bekleyin. Bir personel mümkün olan en kısa sürede aramanızı cevaplayacaktır.”,1
+“Yoğunluk nedeniyle size istediğimiz kadar hızlı cevap veremiyoruz. Sıradan çıkmak ve mesaj bırakmak için 9’a basın. Temsilcilerimiz müsait olduğunda sizi geri arayacağız.”,1
+“Şu anda tüm temsilcilerimiz meşgul. Beklemek için 8’i, geri aramamız için 9’u tuşlayın.”,1
+“Beklediğiniz için teşekkür ederiz. Mümkün olan en kısa sürede temsilcimize bağlanacaksınız.”,1
+“Tüm temsilcilerimiz hala meşgul. Sıranız geldiğinde müşteri temsilcimize bağlanabileceksiniz.”,1
+“Yoğunluk sebebi ile çağrınızı yanıtlayamıyoruz. Lütfen çağrı nedeninizi sesli mesaj olarak bırakın. Biz size en kısa sürede döneceğiz.”,1
+“Yoğunluk nedeniyle size yanıt veremediğimiz için özür dileriz. Lütfen bip sesinden sonra mesajınızı bırakın. Dilerseniz destek@ “şirketadı”.com adresine mesaj atabilirsiniz.”,1
+“‘Şirket adı’ ya da direkt şirketimize hoşgeldiniz. Çalışma süresi dışında olduğumuz için şu an size hizmet verememekteyiz. Mesai saatlerimiz hafta içi 09:00-18:30, hafta sonu 09:00- 22:00. Sinyal sesini duyduktan sonra mesaj bırakabilirsiniz. İlk iş gününde size geri dönüş sağlayacağız.”,1
+“‘Şirket adı’nı aradığınız için teşekkür ederiz. Sinyal sesini duyduktan sonra mesaj bırakabilirsiniz. En kısa sürede size geri döneceğiz.”,1
+“Şirketimize hoşgeldiniz. Hafta içi her gün 12.00-13.30 arasında kapalıyız. Kısa süre sonra tekrar hizmetinizdeyiz. geri aramamızı isterseniz sinyal sesinden sonra mesaj bırakabilirsiniz. Bizi aradığınız için teşekkür ederiz.”,1
+“Siparişinizin durumu hakkında bilgi almak istiyorsanız 3’e, yeni sipariş oluşturmak için 4’e basın.”,1
+“Hangi departmanın size yardımcı olabileceğinden emin değilseniz müşteri temsilcimize bağlanmak için * ‘ı tuşlayın/bekleyin.”,1
+“Merhaba, ‘şirketi adı’nı aradığınız için teşekkür ederiz. Yoğunluk nedeniyle müşteri temsilcilerimiz şu an size yanıt veremiyor. Aramanız bizim için oldukça önemli. Lütfen sesli mesaj bırakın ya da deste@ ‘şirket adı’.com’a mesajınızı iletin. Size kısa süre içinde döneceğiz.”,1
+“Merhaba, ‘şirket adı’ için arıyoruz. Teknik sebepler nedeniyle geri aramanıza dönemediğiniz üzgünüz. Lütfen çalışma saatleri için de bizi tekrar arayın.”,1
+“Merhaba, bütün temsilcilerimiz hala meşgul olduğu için çağrınıza yanıt verememekteyiz. Lütfen çağrıyı sonlandırın ve yeniden aramayı deneyin.”,1
+"Hizmetimizi değerlendirmek için bir dakikanızı ayırabilir misiniz? Deneyiminiz bizim için önemli.",1
+"Merhaba [İsim], son alışverişinizden memnun kaldınız mı? Geri bildiriminiz bizim için değerlidir.",1
+"Bize 1 ile 10 arasında bir puan vererek destek ekibimizi değerlendirir misiniz?",1
+"Deneyiminizi geliştirmemize yardımcı olduğunuz için teşekkürler. Formu buradan doldurabilirsiniz:",1
+"Merha"Hizmetimizi değerlendirmek için bir dakikanızı ayırabilir misiniz? Deneyiminiz bizim için önemli.",1
+"Merhaba [İsim], son alışverişinizden memnun kaldınız mı? Geri bildiriminiz bizim için değerlidir.",1
+"Bize 1 ile 10 arasında bir puan vererek destek ekibimizi değerlendirir misiniz?",1
+"Deneyiminizi geliştirmemize yardımcı olduğunuz için teşekkürler. Formu buradan doldurabilirsiniz:",1
+"Merhaba, [Şirket Adı] ile olan randevunuz nasıl geçti? Herhangi bir sorun yaşadınız mı?",1
+"Geri bildiriminiz başarıyla alındı. Teşekkür eder, iyi günler dileriz.",1
+"Siparişiniz teslim edildi. Hizmetimizi puanlamak için bu bağlantıya tıklayın:",1
+"Bize ayırdığınız vakit için teşekkürler. Yanıtlarınız hizmet kalitemizi artırmamıza yardımcı olacak.",1
+"Yaşadığınız deneyimi bir kelimeyle anlatmak isterseniz bu ne olurdu?",1
+"Destek talebiniz kapatılmıştır. Çözümden memnun kalmadıysanız lütfen bu mesajı yanıtlayın.",1a, [Şirket Adı] ile olan randevunuz nasıl geçti? Herhangi bir sorun yaşadınız mı?",1
+"Geri bildiriminiz başarıyla alındı. Teşekkür eder, iyi günler dileriz.",1
+"Siparişiniz teslim edildi. Hizmetimizi puanlamak için bu bağlantıya tıklayın:",1
+"Bize ayırdığınız vakit için teşekkürler. Yanıtlarınız hizmet kalitemizi artırmamıza yardımcı olacak.",1
+"Yaşadığınız deneyimi bir kelimeyle anlatmak isterseniz bu ne olurdu?",1
+"Destek talebiniz kapatılmıştır. Çözümden memnun kalmadıysanız lütfen bu mesajı yanıtlayın.",1
+"Vallahi çok sağ ol evladım, beni büyük bir dertten kurtardın.",2
+"Allah ne muradın varsa versin, işin gücün rast gitsin.",2
+"Tuttuğun altın olsun, çok yardımcı oldun.",2
+"Gönlümü ferahlattın ya, Allah da seni ferahlatsın.",2
+"İşte hizmet budur, çok teşekkür ediyorum.",2
+"Hızır gibi yetiştiniz vallahi, eksik olmayın.",2
+"Sizin gibi ilgili personellerin sayısı artsın inşallah.",2
+"Çok naziksiniz, bu devirde böyle kibar insan bulmak zor.",2
+"Hayırlı ramazanlar/bayramlar, ilginiz için çok sağ olun.",2
+"Baş tacısınız, gerçekten işinizi severek yaptığınız belli oluyor.",2
+"Sizin sesiniz bana güven verdi, tamamdır.",2
+"Ağzınızdan bal damlıyor, çok güzel anlattınız.",2
+"Eyvallah kardeşim, çok makbule geçti.",2
+"Akşam akşam beni çok mutlu ettiniz, sağ olun.",2
+"Sizden çok memnun kaldım, isminizi not aldım teşekkür edeceğim.",2
+"Bu kadar hızlı çözüleceğini tahmin etmemiştim, helal olsun.",2
+"İşin ehliyle konuşmak ne kadar fark ediyor, sağ olun.",2
+"Güleryüzlü (ses tonu için) hizmetiniz için teşekkürler.",2
+"Sizin gibi birine denk geldiğim için şanslıyım.",2
+"İçimi rahatlattınız, Allah razı olsun.",2
+"Tam istediğim cevabı aldım, harikasınız.",2
+"Siz halledersiniz, size güveniyorum.",2
+"Çok makul bir çözüm, hemen onaylıyorum.",2
+"Sizin kurumun kalitesini bu ilginiz belli ediyor.",2
+"Çok beyefendi/hanımefendi birisiniz, teşekkürler.",2
+"Yavrum seni de uğraştırdık ama kusura bakma artık.",2
+"Kardeşim benim, sen çözersin bu işi, biliyorum.",2
+"Canın sağ olsun, sen elinden geleni yaptın ya o yeter.",2
+"Hah şöyle, anlayışın için çok teşekkür ederim güzel kardeşim.",2
+"Biz bizeyiz sonuçta, halden anladığın için sağ ol.",2
+"Bak bu teklif yattı aklıma, sen diyorsan öyledir.",2
+"Senin o güzel diline sağlık, ne güzel anlattın.",2
+"Zahmet verdik size de, hakkınızı helal edin.",2
+"Aynı memleketliymişiz gibi sıcak konuştun, sağ ol.",2
+"Vaktini aldım ama değdi, çok sağ ol.",2
+"Seni yorduk ama hakkını teslim edeyim, çok iyisin.",2
+"Senin hatırına bekliyorum o zaman, sıkıntı yok.",2
+"Kendi işinmiş gibi ilgilendin, teşekkür ederim.",2
+"Hemen 'olur' dedin ya, işte budur.",2
+"Helal olsun, işini hakkıyla yapıyorsun." ,2
+"Tamamdır, bu şekilde yaparsak benim için çok uygun.",2
+"Harika, o zaman ben hemen işlemi başlatıyorum.",2
+"Sizin dediğiniz gibi olsun, size güveniyorum.",2
+"Mesaj geldi şimdi, işlem tamamlanmış, sağ olun.",2
+"Süreci çok net anlattınız, aklımda soru kalmadı.",2
+"İadem yatmış, çok teşekkürler ilginize.",2
+"Kargom bugün gelirse benden mutlusu yok.",2
+"Tamam, bu indirim benim için gayet makul.",2
+"Sistemde görünüyorsa sorun yok, teşekkür ederim.",2
+"Yarın gelip alabilirim, bu randevu saati çok iyi.",2
+"Faturamda düzeltme yapmışsınız, şimdi gördüm, sağ olun.",2
+"Paket değişikliği tam istediğim gibi olmuş.",2
+"Uygulamadan baktım, her şey yolunda görünüyor.",2
+"Mailiniz ulaştı, hemen onay veriyorum.",2
+"Sizin yönlendirmenizle sorunu çözdüm, teşekkürler.",2
+"Kolay gelsin, iyi mesailer dilerim.",2
+"Başka bir isteğim yok, Allah işinizi rast getirsin.",2
+"Sizi de yorduk, iyi günler.",2
+"Görüşmek üzere, çok sağ olun her şey için.",2
+"Hadi hayırlı işler, bereketli olsun.",2
+"Kendinize iyi bakın, çok yardımcı oldunuz.",2
+"Anket gelirse en yüksek puanı vereceğim size.",2
+"Esen kalın, çok teşekkürler.",2
+"Hayırlı akşamlar, ailenize selamlar.",2
+"Allah'a emanet olun kardeşim.",2
+"Gününüz güzel geçsin.",2
+"Sizleri yorduk ama değdi, sağ olun.",2
+"Hoşça kalın, yine görüşürüz inşallah.",2
+"Sabrınız için ben teşekkür ederim.",2
+"Sizin gibi nazik insanlarla karşılaşmak güzel.",2
+"Yıllardır sizinle çalışıyorum, hiç yanıltmadınız.",2
+"Bu ilginizden sonra başka yere gitmem zaten.",2
+"Arkadaşlarıma da tavsiye edeceğim bu yaklaşımınızı.",2
+"İşte bu yüzden sizi tercih ediyoruz.",2
+"Gerçekten kurumsal bir firma olduğunuz belli.",2
+"Mağdur etmediniz ya, helal olsun size.",2
+"Siz benim sorunumu çözdünüz, ben de size sadık kalırım.",2
+"Hizmet kaliteniz gerçekten çok yüksek.",2
+"Müşteriye değer verdiğinizi hissettirdiniz.",2
+"Her aramada aynı nezaketi görüyorum, sağ olun.",2
+"Sizinle çalışmak büyük keyif.",2
+"Sorun çıksa bile sizin gibi çözenler olduğu sürece sıkıntı yok.",2
+"Dört dörtlük hizmet, diyecek söz yok.",2
+"Beni çok özel hissettirdiniz, teşekkürler.",2
+"İhtiyacım olan tam olarak buydu, sağ olun.",2
+"Hızlı geri dönüşünüz için minnettarım.",2
+"Sektörde teksiniz vallahi.",2
+"Sorunum halloldu ya, dünya varmış.",2
+"Her şey için tekrar tekrar teşekkürler.",2
+"Hayırlı, huzurlu günleriniz olsun.",2
+"Yıllardır sizinle çalışıyorum, hiç yanıltmadınız.",2
+"Bu ilginizden sonra başka yere gitmem zaten.",2
+"Arkadaşlarıma da tavsiye edeceğim bu yaklaşımınızı.",2
+"İşte bu yüzden sizi tercih ediyoruz.",2
+"Gerçekten kurumsal bir firma olduğunuz belli.",2
+"Mağdur etmediniz ya, helal olsun size.",2
+"Siz benim sorunumu çözdünüz, ben de size sadık kalırım.",2
+"Hizmet kaliteniz gerçekten çok yüksek.",2
+"Müşteriye değer verdiğinizi hissettirdiniz.",2
+"Her aramada aynı nezaketi görüyorum, sağ olun.",2
+"Sizinle çalışmak büyük keyif.",2
+"Sorun çıksa bile sizin gibi çözenler olduğu sürece sıkıntı yok.",2
+"Dört dörtlük hizmet, diyecek söz yok.",2
+"Beni çok özel hissettirdiniz, teşekkürler.",2
+"İhtiyacım olan tam olarak buydu, sağ olun.",2
+"Hızlı geri dönüşünüz için minnettarım.",2
+"Sektörde teksiniz vallahi.",2
+"Sorunum halloldu ya, dünya varmış.",2
+"Her şey için tekrar tekrar teşekkürler.",2
+"Hayırlı, huzurlu günleriniz olsun.",2
+"Sizin gibi çözüm odaklı bir ekip bulmak çok zor.",2
+"Sırf bu ilginiz için aboneliğimi yenileyeceğim.",2
+"Beni kırmadığınız için size çok minnettarım.",2
+"Sektörde sizin üzerinize tanımam, harikasınız.",2
+"Müşteri değil de aileden biriymişim gibi davrandınız.",2
+"Verdiğiniz güven paha biçilemez, çok sağ olun.",2
+"Problemi kendi probleminiz gibi sahiplendiniz.",2
+"Bundan sonra tüm çevreme sizi önereceğim.",2
+"Kurumsallıkla samimiyet bir arada, tebrikler.",2
+"Hızır gibi yetiştiniz, Allah razı olsun.",2
+"Bu devirde böyle dürüst hizmet bulmak çok güç.",2
+"Sizden aldığım destek beni markanıza bağladı.",2
+"Her kuruşu sonuna kadar hak ediyorsunuz.",2
+"Ses tonunuzdaki nezaket bile yetti, teşekkürler.",2
+"İşini layığıyla yapan insanları görmek çok güzel.",2
+"Süreci o kadar güzel yönettiniz ki hayran kaldım.",2
+"Mağduriyetimi sevince dönüştürdünüz, sağ olun.",2
+"Sizin farkınız ilginiz ve alakanız, eksik olmayın.",2
+"Talebim saniyeler içinde halloldu, elinize sağlık.",2
+"Beni çok büyük bir zahmetten kurtardınız.",2
+"Sizinle çalışmak gerçekten bir ayrıcalık.",2
+"İçimi rahatlattınız, Allah da sizi sevindirsin.",2
+"Tam aradığım cevabı aldım, minnettarım.",2
+"Kaliteniz her halinizden belli oluyor.",2
+"Siz bu işin zirvesindesiniz, diyecek söz yok.",2
+"Ne zaman arasam aynı kibarlıkla karşılaşıyorum.",2
+"Sorunu kökten çözdünüz, çok teşekkür ederim.",2
+"Dürüstlüğünüz için size ayrıca teşekkür ederim.",2
+"İlgilendiğiniz her an için çok sağ olun.",2
+"Yine her zamanki gibi kalitenizi konuşturdunuz.",2
+"Sizinle yol yürümek gerçekten çok huzurlu.",2
+"Müşteri memnuniyeti dediğin tam da budur.",2
+"Bunca yıldır şikayet etmediğim tek firmasınız.",2
+"Tuttuğun altın olsun, çok yardımcı oldun.",2
+"Sizin bu samimiyetiniz bana güven verdi.",2
+"Baş tacısınız, ilginiz için çok teşekkürler.",2
+"Hemen onaylıyorum, sizin sözünüze güveniyorum.",2
+"Beklediğimden çok daha hızlı bir geri dönüş oldu.",2
+"İnce düşünceniz beni gerçekten çok etkiledi.",2
+"Sizin markanız benim için her zaman bir numara.",2
+"Çözüm odaklı yaklaşımınız takdire şayan.",2
+"Sizinle iletişim kurmak o kadar kolay ki.",2
+"Mağdur etmediğiniz için çok teşekkür ederim.",2
+"İyi ki sizi tercih etmişim, hiç pişman değilim.",2
+"Her aramada aynı standartta hizmet, helal olsun.",2
+"Saygılı tavrınız için minnettarım kardeşim.",2
+"Siz halledersiniz demiştim, beni yanıltmadınız.",2
+"İçim ferahladı sayenizde, eksik olmayın.",2
+"Marka sadakatimi bu görüşmeyle perçinlediniz.",2
+"Sizin gibi pratik insanlarla çalışmak büyük zevk.",2
+"Gününüz aydınlık olsun, çok yardımcı oldunuz.",2
+"Sektördeki diğerlerine örnek olmalısınız.",2
+"Her şey tıkır tıkır işledi, sağ olun.",2
+"Böyle nazik bir temsilciyle konuşmak keyifti.",2
+"Sizin hatırınıza bu işlemi hemen bitiriyorum.",2
+"Sorunlarımı kendi sorununuz gibi çözdünüz.",2
+"Samimiyetinizle kalbimi kazandınız.",2
+"Böylesine profesyonel bir destek görmedim.",2
+"Sizinle çalışmak büyük bir konfor sağlıyor.",2
+"İsteğim tam olarak yerine getirildi, teşekkürler.",2
+"Size olan güvenim bu konuşmadan sonra tavan yaptı.",2
+"Gerçekten markanızın en büyük değerisiniz.",2
+"Bu nezaketiniz için size minnettarım.",2
+"Talebimin önemsendiğini görmek çok güzel.",2
+"Hayırlı işler, bol kazançlar dilerim.",2
+"Sizler gibi işini sevenleri görmek umut verici.",2
+"Her kuruşum size feda olsun, helal hoş olsun.",2
+"Beni kırmayıp yardımcı olduğunuz için sağ olun.",2
+"Sizinle her zaman çalışmaya devam edeceğim.",2
+"İşlem tamamdır, sayenizde rahat uyuyacağım.",2
+"Çok naziksiniz, bu güzel hizmet için teşekkürler.",2
+"Sektörde teksiniz, bunu bir kez daha kanıtladınız.",2
+"Hemen cevap verdiğiniz için çok teşekkürler.",2
+"Sizin markanıza güvenimiz sonsuz.",2
+"Başka bir talebim yok, her şey harika.",2
+"Yine çok yardımcı oldunuz, eksik olmayın.",2
+"Talebim hemen onaylandı, çok mutluyum.",2
+"Sizin gibi dürüst temsilciler hep var olsun.",2
+"Hayırlı ömürler dilerim, teşekkür ederim.",2
+"Sizi de yorduk ama değdi, sağ olun.",2
+"Esen kalın, ilginiz için minnettarım.",2
+"Her şey için sonsuz teşekkürler.",2
+"Sizinle konuşunca insanın moral düzeliyor.",2
+"Harikasınız, işlem şak diye halloldu.",2
+"Bunca zahmete girip çözdünüz, sağ olun.",2
+"Gerçekten çok beyefendi/hanımefendi birisiniz.",2
+"İşte profesyonellik budur, helal olsun.",2
+"Sizi herkese anlatacağım, harika hizmet.",2
+"Marka kalitenizi her detayda hissettiriyorsunuz.",2
+"Beni mağdur etmediğiniz için çok mutluyum.",2
+"Sesinizdeki samimiyet bana yetti.",2
+"Sizler gibi insanlar kurumun değerini artırıyor.",2
+"Her aramada aynı çözümcülük, maşallah.",2
+"İçimi o kadar rahatlattınız ki anlatamam.",2
+"Sizinle çalışmak gerçekten güven verici.",2
+"Hayırlı akşamlar dilerim, her şey mükemmel.",2
+"İsteğim saniyeler içinde gerçekleşti.",2
+"Sizin gibi birini bulduğum için şanslıyım.",2
+"Tam istediğim indirimi yaptınız, sağ olun.",2
+"Sorunsuz bir süreç oldu, elinize sağlık.",2
+"Çok kıymetli bir destek aldım, teşekkürler.",2
+"Nazik yönlendirmenizle sorunum bitti.",2
+"Bizi hiç üzmediniz, hep yanımızda oldunuz.",2
+"Markanızın sadık bir müşterisi olmaya devam edeceğim.",2
+"Siz olmasanız bu iş çıkmaza girerdi.",2
+"Hemen ilgilendiğiniz için ne kadar teşekkür etsem az.",2
+"Hayırlı işler, bol müşteriler dilerim.",2
+"Sizin gibi pratik düşünen temsilciler çok lazım.",2
+"Her şey tıkır tıkır işliyor sayenizde.",2
+"Kendimi çok değerli hissettirdiniz, teşekkürler.",2
+"Bu fiyata bu kalite inanılmaz, sağ olun.",2
+"Sizin gibi nezaketli biriyle tanışmak güzeldi.",2
+"Hiç yorulmadan tüm işlemlerimi bitirdim.",2
+"Sizinle çalışmak büyük bir zevk benim için.",2
+"Hayırlı haberlerinizi bekliyordum, çok mutlu oldum.",2
+"Allah razı olsun, beni gerçekten kırmadınız.",2
+"Sizi tanıdığıma çok memnun oldum evladım.",2
+"Hizmetinizden dolayı gurur duydum.",2
+"Siz ne kadar güzel bir insansınız, sağ olun.",2
+"İşlerinizde kolaylıklar dilerim güzel kardeşim.",2
+"Saniyeler içinde çözüm, işte budur.",2
+"Sizin markanıza olan sadakatim sonsuzdur.",2
+"İhtiyacım olan her an yanımdasınız.",2
+"Yine imdadıma yetiştiniz, eksik olmayın.",2
+"Talebim hemen sisteme düşmüş, teşekkürler.",2
+"Sizin gibi dürüst insanlar kurumun yüz akıdır.",2
+"Her şey için minnettarım, çok sağ olun.",2
+"Sizi de uğraştırdık ama çok güzel çözdünüz.",2
+"Her kuruşu hak eden bir firmasınız.",2
+"İyi ki varsınız, sayenizde her şey halloldu.",2
+"Sektördeki diğer firmalar sizden ilham almalı.",2
+"Problemi çözmekle kalmadınız, güven tazelediniz.",2
+"Bundan sonra her işlemde ilk tercihim sizsiniz.",2
+"İnce ve nazik tavrınız beni çok etkiledi.",2
+"Siz gerçekten bu işin profesyonelisiniz.",2
+"Talebimin bu denli hızlı onaylanması müthiş.",2
+"Müşteri olarak kendimi hiç böyle özel hissetmedim.",2
+"Sizin farkınız çözümcü olmanız, sağ olun.",2
+"Hızlı ve çok nazik bir hizmet, harikasınız.",2
+"Mağduriyetimi hemen telafi ettiniz, teşekkürler.",2
+"Beni kırmadığınız için size çok teşekkür ederim.",2
+"Tek kelimeyle harika, başka söze gerek yok.",2
+"Güvenimi boşa çıkarmadığınız için sağ olun.",2
+"Her şey planladığımız gibi gitti, teşekkürler.",2
+"İlgilendiğiniz her saniye için minnettarım.",2
+"Sektörde sizin üzerinize kimseyi tanımam.",2
+"Nezaketinizle tüm süreci kolaylaştırdınız.",2
+"Verdiğiniz güven benim için her şeyden önemli.",2
+"Sizinle çalışmak benim için bir ayrıcalık.",2
+"İşini layığıyla yapan tek firmasınız.",2
+"Sorunlarımı kendi işinizmiş gibi takip ettiniz.",2
+"Mükemmel bir müşteri desteği, teşekkür ederim.",2
+"Dürüstlüğünüz beni markanıza daha da bağladı.",2
+"Daha iyisi olamazdı, her şey için sağ olun.",2
+"Sizinle her zaman çalışmak istiyorum.",2
+"İlgili tavrınız sayesinde sorunsuz bir gün geçirdim.",2
+"Markanızın kalitesini bir kez daha gördüm.",2
+"Beni çok özel bir müşteri gibi hissettirdiniz.",2
+"Hızınız ve alakanız tek kelimeyle süper.",2
+"İşte gerçek profesyonel destek budur.",2
+"Size güvenmekte ne kadar haklıymışım.",2
+"Hemen çözüm ürettiğiniz için minnettarım.",2
+"Bu kibarlıkla devam ettiğiniz sürece yanınızdayız.",2
+"Sizin gibi bir temsilciyle konuşmak şanstı.",2
+"İşlerimi kolaylaştırdığınız için çok sağ olun.",2
+"Siz gerçekten işinizin hakkını veriyorsunuz.",2
+"Her şey mükemmel, teşekkür ederim.",2
+"Sizinle olan iletişimim hep2 geçiyor.",2
+"Böyle bir ilgi beklemiyordum, harikasınız.",2
+"Müşteriye verdiğiniz değer her halinizden belli.",2
+"Çok naziksiniz, başka bir arzum yok.",2
+"Sizler gibi insanlar olduğu sürece markanız batmaz.",2
+"Hizmet kalitenizden asla ödün vermiyorsunuz.",2
+"Sorunumu şıp diye çözdünüz, elinize sağlık.",2
+"Her aramada aynı kalite, tebrikler.",2
+"Sizleri tanıdığım için çok mutluyum.",2
+"Hayırlı ve bol bereketli işler dilerim.",2
+"Allah razı olsun, her şey için teşekkürler.",2
+"Güleryüzlü (ses tonu için) hizmetin adresi sizsiniz.",2
+"Sizlerle çalışmak büyük bir onur, hoşça kalın.",2
+"Süreç hakkında bilgi almak istiyorum.",1
+"Kaydımın durumunu kontrol edebilir misiniz?",1
+"Faturamın son ödeme tarihini öğrenmek istiyorum.",1
+"Sisteme giriş yaparken hata alıyorum.",1
+"Şifremi sıfırlamak için ne yapmam gerekiyor?",1
+"Adres değişikliği bildirmek istiyorum.",1
+"Kargomun güncel konumu neresidir?",1
+"Üyeliğimi iptal etmek için prosedür nedir?",1
+"Ödeme yöntemimi güncellemek istiyorum.",1
+"İadenin hesaba geçme süresi nedir?",1
+"Mail adresime onay kodu gelmedi.",1
+"Sözleşme detaylarını incelemek istiyorum.",1
+"Hangi belgeleri göndermem gerekiyor?",1
+"Mesai saatleriniz kaça kadar?",1
+"Teknik servisin gelme saati belli mi?",1
+"Ürünün stok durumu nedir?",1
+"Kampanyadan yararlanma şartlarını soracaktım.",1
+"Hesabımdaki bakiyeyi görüntüleyemiyorum.",1
+"Başvurumun hangi aşamada olduğunu öğrenebilir miyim?",1
+"Gerekli evrakları size ulaştırdım.",1
+"Sistem üzerinden onay verdim.",1
+"Telefon numaramı güncellemek istiyorum.",1
+"Paket içeriğinde neler var?",1
+"Faturam e-posta adresime ulaşmadı.",1
+"Randevu saatini değiştirebilir miyiz?",1
+"Ödeme makbuzunu nereye göndermeliyim?",1
+"Garanti kapsamındaki işlemleri soracaktım.",1
+"Kullanım kılavuzuna ulaşamıyorum.",1
+"Abonelik numaramı hatırlamıyorum.",1
+"Siparişim onaylandı mı?",1
+"Başka bir birime aktarabilir misiniz?",1
+"Yetkili biriyle görüşmek istiyorum.",1
+"Belgeleri sistemden mi yüklemeliyim?",1
+"Eski kayıtlarımı incelemek istiyorum.",1
+"Aylık kullanım miktarımı öğrenebilir miyim?",1
+"Kartımdan mükerrer çekim yapılmış.",1
+"Hizmet iptali için dilekçe mi yazmalıyım?",1
+"Kurye teslimat yapmadan geri gitmiş.",1
+"Bağlantı ayarlarını yapamıyorum.",1
+"Ek paket satın almak istiyorum.",1
+"Fiyat listesini paylaşabilir misiniz?",1
+"Cihazın kurulumu ne zaman yapılacak?",1
+"Ödeme bekleyen borcum var mı?",1
+"Kampanya katılım mesajı gelmedi.",1
+"Hizmet bölgeniz içinde miyim?",1
+"Ürün boyutlarını öğrenebilir miyim?",1
+"Şube telefon numarasını alabilir miyim?",1
+"Hangi kargo firmasıyla çalışıyorsunuz?",1
+"İade kargo kodunu alabilir miyim?",1
+"Puanlarımın geçerlilik süresi nedir?",1
+"Otomatik ödeme talimatı vermek istiyorum.",1
+"Kimlik doğrulaması nasıl yapılıyor?",1
+"Fatura itiraz süreci nasıl işler?",1
+"Evrakların aslı mı gerekiyor?",1
+"İşlem ücretlerini öğrenebilir miyim?",1
+"Hesap dökümü talep ediyorum.",1
+"Web sitesinden işlem yapamıyorum.",1
+"Mobil uygulama güncellenmiyor.",1
+"Talep numaramı not alıyorum.",1
+"Geri dönüş ne zaman yapılır?",1
+"İşlem sırasını bekliyorum.",1
+"Sms ile bilgilendirme istiyorum.",1
+"Onay mesajını bekliyorum.",1
+"İnceleme ne kadar sürer?",1
+"Yasal haklarımı sormak istiyorum.",1
+"Üyelik tipimi değiştirebilir miyim?",1
+"Yanlış ürün gönderilmiş.",1
+"Kutu içeriği eksik çıktı.",1
+"Garanti belgesi kutudan çıkmadı.",1
+"Ödeme hatası alıyorum.",1
+"Sistemde kaydım görünmüyor.",1
+"Şifremi unuttum butonuna bastım.",1
+"Gelen linke tıkladım.",1
+"Dosya formatı uygun değil diyor.",1
+"Görüşme kayıt altına alınıyor mu?",1
+"Hizmet kalitesi hakkında bilgi alabilir miyim?",1
+"Aktivasyon işlemi ne zaman biter?",1
+"Cihazın seri numarasını soracaktım.",1
+"Hangi bankalarla anlaşmanız var?",1
+"Taksit seçenekleri nelerdir?",1
+"Yurtdışına gönderim yapıyor musunuz?",1
+"Vergi numarasını güncellemek istiyorum.",1
+"Kurumsal fatura istiyorum.",1
+"İrsaliye belgesine ulaşamıyorum.",1
+"Üyelik sözleşmesini feshetmek istiyorum.",1
+"Yeni abonelik başvurusu yapacağım.",1
+"Evrak teslim fişini aldım.",1
+"Kuryenin gelmesini bekliyorum.",1
+"Kargo takip numarasını rica edebilir miyim?",1
+"Bağlantı hızımı ölçmek istiyorum.",1
+"Modem ışıkları yanmıyor.",1
+"Sinyal sorunu yaşıyorum.",1
+"Arama kaydı oluşturmak istiyorum.",1
+"Mail yoluyla bilgilendirilmek istiyorum.",1
+"Süreç hakkında yazılı bilgi alabilir miyim?",1
+"İşlemimi başka bir karta aktarmak istiyorum.",1
+"Yedek parça temin edebilir miyiz?",1
+"Garanti süresi dolmuş mu?",1
+"Kasko detaylarını soracaktım.",1
+"Hasar kaydı oluşturmak istiyorum.",1
+"Poliçe numaramı öğrenebilir miyim?",1
+"Ödeme tarihini öne çekebilir miyiz?",1
+"Gecikme faizini sormak istiyorum.",1
+"Borç yapılandırması yapılıyor mu?",1
+"Sistem güncelleniyor uyarısı var.",1
+"Mobil şube üzerinden işlem yaptım.",1
+"Fatura kesim tarihini değiştirmek istiyorum.",1
+"Alt limit ne kadar?",1
+"Ücretsiz nakil hakkım var mı?",1
+"Cayma bedelini öğrenebilir miyim?",1
+"Taahhüt sürem ne zaman doluyor?",1
+"İptal dilekçesini faksladım.",1
+"Müşteri numaramı söyler misiniz?",1
+"İşlemim askıda kaldı.",1
+"Bekleyen taleplerimi görmek istiyorum.",1
+"Son üç ayın ekstresini istiyorum.",1
+"Ürün stokta yoksa ne zaman gelir?",1
+"Ön sipariş verebilir miyim?",1
+"Mağazadan teslim alabilir miyim?",1
+"Hediye çeki nasıl kullanılır?",1
+"Kupon kodum çalışmıyor.",1
+"Sipariş notu eklemek istiyorum.",1
+"Alıcı ismini değiştirebilir miyiz?",1
+"Kargo şirketini değiştirmek istiyorum.",1
+"Hasarlı ürün tutanağı tutuldu mu?",1
+"Eksper ne zaman gelecek?",1
+"Randevu teyidi almak istiyorum.",1
+"Görüşme saati uygun değil.",1
+"Tekrar aranmak istiyorum.",1
+"Başvurum reddedilmiş, nedenini soracaktım.",1
+"Belge eksikliği uyarısı aldım.",1
+"Hangi evrak eksik görünüyor?",1
+"Fotoğraf formatı ne olmalı?",1
+"İmza sirkülerini gönderdim.",1
+"Yetki belgesini tarattım.",1
+"Sistem hatası ekran görüntüsünü aldım.",1
+"Browser ayarlarımı kontrol ettim.",1
+"Başka bir tarayıcıdan denedim.",1
+"Çerezleri temizledim.",1
+"Uygulamayı silip tekrar yükledim.",1
+"Cihazı yeniden başlattım.",1
+"Kabloları kontrol ettim.",1
+"Resetleme işlemi yaptım.",1
+"Kurulum rehberindeki adımları izledim.",1
+"Teknik destek ekibiyle görüştüm.",1
+"Saha ekibi yönlendirilmiş.",1
+"Arıza kaydı açıldı mı?",1
+"Bakım çalışması mı var?",1
+"Kesinti ne kadar sürecek?",1
+"Alternatif çözüm öneriniz nedir?",1
+"Hangi tarifeyi kullanıyorum?",1
+"Kullanım haklarımın ne kadarı kaldı?",1
+"Faturam neden yüksek geldi?",1
+"Ekstra ücretlerin dökümünü istiyorum.",1
+"Yurtdışı kullanım ayarlarını soracaktım.",1
+"Dolaşım ücretleri nedir?",1
+"Hız testi sonucunu paylaşıyorum.",1
+"Ip adresi çakışması uyarısı var.",1
+"Port açma işlemi nasıl yapılır?",1
+"Güvenlik duvarı ayarlarını soracaktım.",1
+"Antivirüs programı uyarısı aldım.",1
+"Sertifika hatası veriyor.",1
+"Bağlantı koptu.",1
+"İşlem yarım kaldı.",1
+"Siparişim hala hazırlanıyor görünüyor.",1
+"Tedarik aşamasında yazıyor.",1
+"Kargoya verilme tarihini soracaktım.",1
+"Takip linki çalışmıyor.",1
+"Hatalı barkod uyarısı var.",1
+"Teslimat şubesine ulaşamıyorum.",1
+"Geldik bulamadık notu bırakılmış.",1
+"Komşuya bırakılmış, haberim yoktu.",1
+"Güvenliğe teslim edilmiş.",1
+"İade süreci başlatıldı mı?", nört
+"Para iadesi ne zaman karta yansır?",1
+"Hangi karta iade yapılacak?",1
+"Cüzdan hesabıma mı yattı?",1
+"Banka provizyon kodunu öğrenebilir miyim?",1
+"Ödeme reddedildi diyor.",1
+"Limit yetersiz uyarısı aldım.",1
+"Banka ile görüştüm, sorun yok dediler.",1
+"Sanal kart ile ödeme yapabilir miyim?",1
+"Havale/EFT bilgilerini rica ediyorum.",1
+"Açıklama kısmına ne yazmalıyım?",1
+"İban numaranızı alabilir miyim?",1
+"Ödeme onayı kaç dakikada gelir?",1
+"Randevu oluşturmak istiyorum.",1
+"Boş kontenjan var mı?",1
+"Hafta sonu hizmet veriyor musunuz?",1
+"Şube çalışma saatlerini soracaktım.",1
+"Mola saatleriniz ne zaman?",1
+"Sıra numaramı kaçırdım.",1
+"Girişteki ekrandan işlem yaptım.",1
+"Formu doldurup size ulaştırdım.",1
+"Eksik bilgi kalmadı sanırım.",1
+"Talebin sonuçlanmasını bekliyorum.",1
+"Kararı bana nasıl bildireceksiniz?",1
+"Yazılı tebligat gelecek mi?",1
+"Görüşme sonlandırılabilir.",1
+"İyi günler dilerim.",1
+"Kaç saattir bekliyorum, hala bir çözüm üretemediniz.",0
+"Paramızla rezil oluyoruz, bu nasıl bir hizmet anlayışı?",0
+"Sizin yüzünüzden bütün işlerim aksadı, mağduriyetimi kim giderecek?",0
+"Karşımda muhatap bulamıyorum, robot gibi aynı şeyleri tekrarlayıp durmayın.",0
+"Bir daha asla sizden alışveriş yapmam, çevremdeki herkese de engel olacağım.",0
+"Yazıklar olsun, kurumsal bir firma olduğunuzu sanıyordum.",0
+"Sürekli 'ilgileniyoruz' diyorsunuz ama ortada hiçbir şey yok.",0
+"Kargom günlerdir şubede bekliyor, neden dağıtıma çıkmıyor?",0
+"Hatalı ürün gönderip bir de iade kargosuyla beni mi uğraştırıyorsunuz?",0
+"Telefonda yarım saat bekletmek nedir, insanla dalga mı geçiyorsunuz?",0
+"Sizin sisteminiz batsın, bir şifreyi bile sıfırlayamadım.",0
+"Sözde kampanya yapmışsınız ama fiyatları iki katına çıkarmışsınız.",0
+"Müşteri temsilcisi değil, sanki duvarla konuşuyorum.",0
+"İade ettiğim parayı bir aydır yatırmadınız, nereye şikayet edeyim sizi?",0
+"Her seferinde farklı bir yalan söylüyorsunuz, kime inanacağımızı şaşırdık.",0
+"Ürünü alana kadar her şey çok güzeldi, aldıktan sonra yüzümüze bakmıyorsunuz.",0
+"Hizmet kaliteniz yerlerde sürünüyor, çok pişmanım.",0
+"Bağlantım sürekli kopuyor, paramın karşılığını alamıyorum.",0
+"Sizin yüzünüzden uçağı/otobüsü kaçırdım, hesabını kim verecek?",0
+"Boşuna konuşuyoruz, yine hiçbir şey değişmeyecek.",0
+"Sizi Tüketici Hakem Heyeti'ne şikayet edeceğim, göreceksiniz.",0
+"Böyle ilgisizlik görmedim, kapıdaki esnaf sizden daha iyi hizmet veriyor.",0
+"Aynı sorunu üçüncü kez yaşıyorum, hala 'kayıt açtık' diyorsunuz.",0
+"Faturam neden bu kadar yüksek, haksız kazanç sağlıyorsunuz.",0
+"Teknik servis geldi ama hiçbir şey yapmadan gitti.",0
+"Üyelik iptali yapmak istiyorum, neden zorluk çıkarıyorsunuz?",0
+"Cebimdeki parayı zorla alıyorsunuz resmen, başka bir şey değil.",0
+"Rezalet bir kargo firmasıyla çalışıyorsunuz, paketim paramparça gelmiş.",0
+"Sizin sözünüze güvenip iş yapanın aklına şaşarım.",0
+"Yarım saattir müzik dinletiyorsunuz, kapatın şu telefonu.",0
+"Uygulamanız sürekli çöküyor, bir işi beceremediniz.",0
+"Zamanımı çalıyorsunuz, başka bir şey yaptığınız yok.",0
+"Hakkımı helal etmiyorum, beni çok mağdur ettiniz.",0
+"Mail atıyorum cevap yok, arıyorum ulaşamıyorum, siz ne iş yaparsınız?",0
+"Verdiğiniz sözlerin hiçbirini tutmadınız.",0
+"Bizi enayi yerine koyamazsınız, her şeyin farkındayız.",0
+"Sistemde hata var deyip işin içinden sıyrılıyorsunuz.",0
+"Kuryeniz çok kaba, böyle insanları nasıl çalıştırıyorsunuz?",0
+"İndirim kodu verdiniz ama çalışmıyor, insan mı kandırıyorsunuz?",0
+"Sabrımı taşırdınız artık, yetkili biriyle görüşeceğim hemen.",0
+"Cevap vermek yerine suratıma kapattılar, bu nasıl bir terbiyesizlik?",0
+"Kırık ürünün sorumlusu ben miyim ki geri gönderin diyorsunuz?",0
+"Ödeme yaptığım halde hala borç görünüyor, sisteminiz bozuk.",0
+"Reklamlarınızda her şey toz pembe ama gerçekler berbat.",0
+"Beni aramayın bir daha, isminizi duymak istemiyorum.",0
+"Sorumsuzluk diz boyu, bir takip numarası vermek bu kadar mı zor?",0
+"Eski müşteriye hiç değer vermiyorsunuz, varsa yoksa yeniler.",0
+"Hizmetinizi iptal edin, sizinle daha fazla çalışmak istemiyorum.",0
+"Yarın geliyoruz dediniz, bütün gün evde bekledim, kimse gelmedi.",0
+"Şikayetimi dikkate alan tek bir kişi bile yok mu koca şirkette?",0
+"Sizin yüzünüzden rezil olduk misafirlere, yemek gelmedi.",0
+"Cihaz bozuk çıktı, değişim yerine tamir diyorsunuz, kabul etmiyorum.",0
+"Borcumuz olunca hemen ararsınız, sorunumuz olunca ulaşılmazsınız.",0
+"İnternet sitesindeki görselle gelen ürünün alakası yok.",0
+"Bu kaçıncı aramam, sesimi duyan yok mu?",0
+"Beni oradan oraya aktarmayın, çözümü söyleyin.",0
+"Anket yapacağınıza işinizi düzgün yapın.",0
+"Sizin kadar vurdumduymaz bir yer daha görmedim.",0
+"Faturayı keserken çok hızlısınız ama iadeye gelince yoksunuz.",0
+"Yalan beyanda bulunuyorsunuz, ses kayıtlarını dinleyin o zaman.",0
+"Beni oyalayıp durmayın, paramı geri verin.",0
+"Paketim kaybolmuş, 'haberimiz yok' diyorsunuz, bu nasıl iş?",0
+"Kandırmaca bunlar, başka bir şey değil.",0
+"İnsanları sömürmekten başka derdiniz yok.",0
+"Nereden bulaştım size, bin pişmanım.",0
+"Her şeyiniz sorun, her şeyiniz eksik.",0
+"Sizinle konuştuğum her dakika ömrümden gidiyor.",0
+"Beceriksiz bir yönetim, berbat bir destek hattı.",0
+"Sizin için müşteri sadece bir numaradan ibaret.",0
+"Randevu saatini kafanıza göre değiştirmişsiniz.",0
+"Evraklar ulaştı diyorsunuz ama işlem yapılmıyor.",0
+"Sistemleriniz taş devrinden kalma sanki.",0
+"Beni günlerdir 'teknik birim arayacak' diye bekletiyorsunuz.",0
+"Daha fazla dayanamayacağım, avukatıma veriyorum konuyu.",0
+"Sizden gelen mesajları bile görmek istemiyorum artık.",0
+"Hizmet falan vermiyorsunuz, resmen soygun bu.",0
+"Sizin kargonuzu beklerken ağaç oldum.",0
+"Ayıplı mal satıyorsunuz, bir de üste çıkıyorsunuz.",0
+"Müşteri hakları sizin için kağıt parçasından ibaret herhalde.",0
+"Sizin gibi bir devle çalışmak hataymış.",0
+"Telefonu açan kişinin dünyadan haberi yok.",0
+"Hangi yüzle benden anket puanı istiyorsunuz?",0
+"Ödeme kısmında sorun var, satın alamıyorum, şaka mısınız?",0
+"Yurtdışından gelse daha çabuk gelirdi bu kargo.",0
+"İletişim sıfır, nezaket sıfır, çözüm sıfır.",0
+"Bizi kendi halimize bıraktınız, ilgilenen yok.",0
+"Sırf iptal etmemek için kırk dereden su getiriyorsunuz.",0
+"Sizin sunduğunuz hizmete hizmet denmez.",0
+"Beceremiyorsanız bu işi yapmayın kardeşim.",0
+"Sinir krizine soktunuz beni, kapatıyorum telefonu.",0
+"Ürünün kutusu açılmış gelmiş, kim bilir kim kullandı?",0
+"Sürekli bahaneler, sürekli mazeretler.",0
+"Beni anlamak istemiyorsunuz, sadece geçiştiriyorsunuz.",0
+"Sizin reklamlarınıza inananın vay haline.",0
+"Teknoloji şirketisiniz ama sisteminiz sürekli hata veriyor.",0
+"Ücret iadesi için neden 14 gün beklemek zorundayım?",0
+"Sizin markanız gözümde bitti.",0
+"Kaba ve saygısızca bir tutum takınıyorsunuz.",0
+"Sözde VIP hizmet alacaktık, normalinden bile kötü.",0
+"Sizi her yere şikayet edeceğim, sosyal medyada rezil olacaksınız.",0
+"Çözüm üretmek yerine beni suçluyorsunuz.",0
+"Böyle amatör bir çalışma olamaz.",0
+"İnternet hızım sürünüyor, parasını tam alıyorsunuz.",0
+"Sizin yüzünüzden toplantım mahvoldu.",0
+"Arama kaydı açmaktan yoruldum artık.",0
+"Bana sormadan aboneliğimi yenilemişsiniz.",0
+"Kartımdan izinsiz para çekmişsiniz, bu hırsızlıktır.",0
+"Sizin şirketinizde düzgün çalışan bir şey var mı?",0
+"Cevaplarınız çok lakayıt, ciddi bir firma değilsiniz.",0
+"Bekleyin deyip yüzüme kapattılar, inanamıyorum.",0
+"Sizinle konuşmak vakit kaybı.",0
+"Hala 'iletiyorum' diyorsunuz, nereye iletiyorsunuz?",0
+"Müşteriye saygınız hiç kalmamış.",0
+"Mağazadaki çalışanlarınız da bir o kadar kaba.",0
+"Sizinle olan sözleşmemi tek taraflı feshediyorum.",0
+"Hediye çeki tanımlayacağız dediniz, gelen giden yok.",0
+"İşinizi takip etmiyorsunuz, biz mi hatırlatacağız?",0
+"Sorumsuzca bir tavır, çok yazık.",0
+"Sizi tercih ettiğim güne lanet olsun.",0
+"Beni saf yerine koymayın, durumu biliyorum.",0
+"Sizin fiyat politikanız tam bir soygun.",0
+"Destek hattınız tam bir fiyasko.",0
+"Açıklamalarınız beni hiç tatmin etmedi.",0
+"Sürekli 'yoğunluk var' diyorsunuz, hep mi yoğunluk var?",0
+"Kargo kapıya gelmiş ama zili bile çalmamışlar.",0
+"Ürünü geri aldınız ama paramı vermiyorsunuz.",0
+"Sizin sisteminizde hiçbir şey düzgün ilerlemiyor.",0
+"Bana yanlış bilgi verdiniz, beni yanılttınız.",0
+"Şikayetim neden kapatıldı, sorunum çözülmedi ki?",0
+"Yine aynı otomatik mesajlar, bıktık artık.",0
+"Sizi kime şikayet edersek edelim, bir şey değişmiyor.",0
+"Resmen paramızı çöpe atıyoruz.",0
+"İletişim kurmak imkansız sizinle.",0
+"Siz sadece para alırken varsınız.",0
+"Beceriksizliğinizin cezasını ben mi çekeceğim?",0
+"Sizinle olan maceram burada biter.",0
+"Rezalet ötesi bir hizmet, başka kelime bulamıyorum.",0
+"Bana ulaşılamadı denmiş ama telefonum hep açıktı.",0
+"Yalan söylüyorsunuz, evdeydim gelmediniz.",0
+"Müşteri temsilcisi beni azarladı resmen.",0
+"Sizin kurumsallığınız sadece kağıt üzerinde.",0
+"Bir kargo kodu üretmek bu kadar mı zor?",0
+"Beni daha fazla sinirlendirmeyin.",0
+"Sizinle çözüm bulacağıma inanmıyorum artık.",0
+"Hizmet almadığım dönemin faturasını ödemem.",0
+"Hatanızı kabul etmek yerine bahane üretiyorsunuz.",0
+"Sizin şirketinizde kimsenin kimseden haberi yok.",0
+"Zararımı kim karşılayacak şimdi?",0
+"Daha fazla vaktimi almayın, yetkiliye bağlayın.",0
+"Sizi seçtiğim için kendime kızıyorum.",0
+"Sizin markanız benim için pişmanlıktır.",0
+"Böyle saçmalık görmedim.",0
+"Haksız yere ücret yansıtmışsınız.",0
+"Sizinle konuşmak duvara konuşmakla aynı.",0
+"Hizmetinizden hiç memnun kalmadım.",0
+"Beni aramayı kesin artık.",0
+"Sizin yüzünüzden maddi zarara uğradım.",0
+"Kargoyu yanlış adrese bırakmışlar, bu nasıl bir dikkatsizlik?",0
+"Sizinle uğraşmaktan yoruldum.",0
+"Tavırlarınız hiç hoş değil.",0
+"İptal işlemimi neden onaylamıyorsunuz?",0
+"Sürekli güncelleme geliyor ama hiçbir şey düzelmiyor.",0
+"Beni kapıda bekletmeye hakkınız yok.",0
+"İşlem ücreti altında para kesiyorsunuz.",0
+"Sizin markanızdan soğudum.",0
+"Hiçbir soruma net cevap alamıyorum.",0
+"Siz sadece satış yapana kadar varsınız.",0
+"Bana gelen ürün başkasının iadesi sanırım.",0
+"Sorumsuz bir yaklaşım, çok yazık.",0
+"Sizinle yaşadığım bu kaçıncı sorun?",0
+"Beni aptal yerine koyamazsınız.",0
+"Sisteminiz çok yavaş, ömür törpüsü.",0
+"Beni arayacağınızı söylediniz ama aramadınız.",0
+"Sizin verdiğiniz bilgiyle işlem yaptım, zarar ettim.",0
+"Hala inceleme aşamasında mı, şaka mı bu?",0
+"Beceriksiz bir destek ekibiniz var.",0
+"Sizin kurallarınız müşteriyi mağdur etmek üzerine herhalde.",0
+"Böyle bir ilgisizlik kabul edilemez.",0
+"Sizin markanızı bir daha asla kullanmayacağım.",0
+"Sürekli hat kopuyor, bir türlü görüşemedik.",0
+"Beni neden bu kadar çok bekletiyorsunuz?",0
+"Sizinle olan iletişimim tam bir işkence.",0
+"İade kargo ücretini neden ben ödüyorum?",0
+"Sizinle konuşunca sinirlerim bozuluyor.",0
+"Bana eksik ürün gönderdiniz.",0
+"Sizin yüzünüzden bütün günüm mahvoldu.",0
+"Hizmet vermiyorsunuz, sadece oyalıyorusunuz.",0
+"Beni oradan oraya savurmayın.",0
+"Sizin şubenizdeki personel çok kaba.",0
+"Şikayetvar'a yazacağım sizi.",0
+"Bana ulaştığınızda sorunum çoktan çözülmüş olmalıydı.",0
+"Sizinle anlaştığım fiyat bu değildi.",0
+"Beni dinlemiyorsunuz bile.",0
+"Sizin yüzünüzden işimden oldum.",0
+"Beceremiyorsanız bırakın gidin.",0
+"Sizinle olan her şeyim pişmanlık.",0
+"Bana düzgün bir cevap verin artık.",0
+"Sizin kurumsallığınıza güvenip hata yapmışım.",0
+"Beni daha fazla mağdur etmeyin.",0
+"Sizinle görüşmeyi burada bitiriyorum, rezalet!",0
+"Daha ne kadar beklemem gerekiyor, sabır taşı olsa çatlardı.",0
+"Sizin gibi bir devden bu kadar amatörce bir hata beklemezdim.",0
+"Hizmet alırken her şey iyiydi, sorun çıkınca duvar oldunuz.",0
+"Kargomun içinden başka birinin faturası çıktı, gizlilik nerede?",0
+"Bağlantı hızım söz verdiğinizin yarısı bile değil, resmen aldatmaca.",0
+"Beni arayacağınızı söylediniz, telefonun başında ağaç oldum.",0
+"Müşteri hizmetleri değil, oyalama merkezi kurmuşsunuz.",0
+"Faturamda 'ek hizmet' diye bir kalem var, ben böyle bir şey istemedim.",0
+"Sizin yüzünüzden iş görüşmem yarıda kaldı, zararımı kim ödeyecek?",0
+"Ürünü kutusuz, korumasız göndermişsiniz; kırılacağı belliydi zaten.",0
+"İptal talebim neden hala bekletiliyor, zorla mı tutuyorsunuz?",0
+"Sizden aldığım her şey elimde kalıyor, bıktım artık.",0
+"Sistemleriniz sürekli bakımda, ne zaman çalışacak bu site?",0
+"Müşteriye cevap vermeyi zül sayıyorsunuz herhalde.",0
+"Bir takip kodu almak için kırk takla mı atmamız lazım?",0
+"Kurye kapıya gelmemiş, sisteme 'geldik bulamadık' yazmış; yalan!",0
+"Ses kayıtlarını dinleyin, temsilciniz bana hakaret etti.",0
+"On gün oldu, bir iadeyi başlatamadınız; pes diyorum.",0
+"Kampanya diye kandırıp stokta olmayan ürünü sattınız.",0
+"Nereden bulaştım size, hayatımın hatasını yaptım.",0
+"Sizin çözümünüz sorundan daha beter, kabul etmiyorum.",0
+"Sürekli güncelleme bahanesiyle sistemi kapatıyorsunuz.",0
+"Beni aptal yerine koymayı bırakın artık, her şeyin farkındayım.",0
+"Sorumsuz bir firmasınız, hiçbir sözünüzü tutmuyorsunuz.",0
+"Teknik servis geldi, sorun yok deyip gitti; cihaz hala çalışmıyor.",0
+"Telefonda beklemekten kulağım uyuştu, kapatın şu müziği.",0
+"Mağduriyet üzerine mağduriyet yaşatıyorsunuz, yeter artık.",0
+"Paramı iade edin, sizinle daha fazla muhatap olmak istemiyorum.",0
+"Kurumsallığınız sadece reklamlarınızda kalmış, gerçekte sıfırsınız.",0
+"Sizi her yere yazacağım, Twitter'da, Şikayetvar'da göreceksiniz.",0
+"Beni oradan oraya aktarmaktan başka işiniz yok mu?",0
+"Hatanızı kabul etmek bu kadar mı zor, neden üste çıkıyorsunuz?",0
+"Eski aboneleri hiç düşünmüyorsunuz, hep yeni gelenlere indirim.",0
+"Sizin markanız gözümde tamamen bitti, bir daha asla.",0
+"Cihazın ekranı çizik geldi, ikinci el ürün mü yolluyorsunuz?",0
+"Görüşmeyi sonlandırıyorum, avukatım sizinle iletişime geçecek.",0
+"Söylediğiniz hiçbir şey birbirini tutmuyor, herkes farklı konuşuyor.",0
+"Müşteri temsilcisinin üslubu çok lakayıt, eğitim vermiyor musunuz?",0
+"İndirim çeki tanımladık dediniz, ödeme ekranında görünmüyor.",0
+"Sabrımı zorlamayın, hemen yetkili birine bağlayın beni.",0
+"Sizin kargonuz gelene kadar mevsim değişti resmen.",0
+"Bağlantı sorunu için arıyorum, 'modemi kapat aç' diyorsunuz; dalga mı geçiyorsunuz?",0
+"Ödediğim paranın tek kuruşunu bile hak etmiyorsunuz.",0
+"Uygulamanız telefonun şarjını bitiriyor, sürekli donuyor.",0
+"Hizmet kalitesi yerlerde, amatör mahalle dükkanı gibisiniz.",0
+"Hakkımı sonuna kadar arayacağım, peşinizi bırakmam.",0
+"Sizi tercih ettiğim için kendimden özür diliyorum.",0
+"Kurye paketi binanın önüne fırlatıp gitmiş, bu nasıl iş?",0
+"Üyelik ücretini çekmeyi biliyorsunuz ama hizmete gelince yoksunuz.",0
+"Daha fazla vaktimi çalmayın, işlemi derhal iptal edin.",0
+"Sizin sistem hatanızın cezasını ben mi çekeceğim?",0
+"Beceriksiz bir ekip, vizyonsuz bir yönetim.",0
+"Haksız yere gecikme faizi işletmişsiniz, derhal düzeltin.",0
+"Cihaz ısınma yapıyor diyorum, 'normal' diyorsunuz; yanınca mı ilgileneceksiniz?",0
+"Sizden gelen her mailde yeni bir sorun çıkıyor.",0
+"Beni daha fazla mağdur ederseniz polisle geleceğim şubenize.",0
+"Sözde randevu verdiniz, bütün gün eve hapis kaldım.",0
+"Faturam neden her ay katlanarak artıyor?",0
+"Yetersiz bakiye diyor ama kartımda para var, sisteminiz bozuk.",0
+"Müşteriye saygı kalmamış, sadece cüzdan olarak bakıyorsunuz.",0
+"Aktivasyon için bir hafta beklemek hangi çağda kaldı?",0
+"Sizin yüzünüzden online sınavım yarım kaldı, hesabını kim verecek?",0
+"Kargoya verdik diyorsunuz ama takip numarası neden oluşmadı?",0
+"İade kargosunu benim ödemem tam bir saçmalık.",0
+"Şikayetim neden 'çözüldü' olarak işaretlenmiş, hiçbir şey düzelmedi.",0
+"Her seferinde 'not alıyorum' diyorsunuz, o notlar çöpe mi gidiyor?",0
+"Sizin markanız benim için pişmanlık sembolü oldu.",0
+"Gelen ürünün son kullanma tarihi geçmiş, insan sağlığıyla mı oynuyorsunuz?",0
+"Sizi Tüketici Hakem Heyeti'ne vereceğim, bekleyin.",0
+"Sinirlerimi alt üst ettiniz, kapatın telefonu!",0
+"Bana sormadan paketimi değiştirmişsiniz, ne hakla?",0
+"Sizin şirketinizde herkes birbirinden bağımsız çalışıyor sanırım.",0
+"Zamanım kıymetli benim, sizin gibi boş vaktim yok.",0
+"Böyle rezalet bir uygulama daha görmedim.",0
+"Ödeme adımında takılıyor, bir şeyi beceremediniz.",0
+"Kurye telefonu açmıyor, merkez 'ulaşamıyoruz' diyor, şaka mısınız?",0
+"Sizinle anlaştığımız fiyat bu değildi, ek ödeme nereden çıktı?",0
+"Beni enayi yerine koyamazsınız, o iade bugün yapılacak.",0
+"Kırık gelen parçayı değiştirmek yerine 'tamir edin' diyorsunuz.",0
+"Sizin vizyonunuz müşteriyi yıldırmak üzerine kurulmuş.",0
+"Aylardır beklediğim parça hala gelmedi, yurt dışından yürüyerek mi geliyor?",0
+"Müşteri hizmetlerine bağlanmak ölüm gibi.",0
+"Bana yanlış bilgi veren temsilciden şikayetçiyim.",0
+"Sizin yüzünüzden maddi manevi zarardayım.",0
+"Hizmetinizi durdurun, isminizi duymak istemiyorum artık.",0
+"Böyle ciddiyetsiz bir firma daha önce görmedim.",0
+"Her şeyiniz yalan, her şeyiniz sahte.",0
+"Kullanamadığım internetin faturasını ödetiyorsunuz bana.",0
+"Bana gönderilen ürün teşhir ürünü mü, her yeri çizik?",0
+"Sizin sisteminizdeki hatanın bedelini ben ödemem.",0
+"Üyelik iptali için dilekçe mi? Hangi devirdeyiz?",0
+"Sizi seçtiğim güne lanet olsun.",0
+"Bağlantı yok diyorum, temsilci 'faturanızı ödeyin' diyor, borcum yok ki!",0
+"Kargom kime teslim edilmiş belli değil, imza kimin?",0
+"Siz sadece para alırken varsınız, destek sıfır.",0
+"Beni daha fazla oyalarsanız yasal yollara başvuracağım.",0
+"Her gün ayrı bir sorunla uğraşmaktan bıktım.",0
+"Sizin kaliteniz bu kadarsa vay halimize.",0
+"Müşteri temsilcisi beni tersledi, bu ne cüret?",0
+"Sorumsuzlukta dünya markası olmuşsunuz.",0
+"Hesabımdan çift çekim yapılmış, paramı geri verin.",0
+"Sizin yüzünüzden işimden geri kaldım.",0
+"Bağlantı kalitesi yerlerde, resmen çamur gibi yayın.",0
+"İade kodunu on saattir gönderemediniz.",0
+"Sizden bir şey almak pişmanlıktır.",0
+"Randevu saati geçeli üç saat oldu, gelen yok.",0
+"Sürekli 'sistem hatası' deyip kapatıyorsunuz.",0
+"Bana eksik parça gönderilmiş, neden kontrol etmediniz?",0
+"Sizin markanızın reklamlarını her yerden engelleyeceğim.",0
+"Müşteriye verdiğiniz değer koca bir sıfır.",0
+"Ürünün rengi fotoğraftakinden bambaşka geldi.",0
+"Sizin temsilcinizle konuşmak duvarla konuşmaktan zor.",0
+"Böyle amatör bir lojistik firmasıyla neden çalışıyorsunuz?",0
+"Mağduriyetim giderilmezse bu iş yargıya taşınır.",0
+"Sizin yüzünüzden kredi puanım düştü.",0
+"Otomatik yenilemeyi kapatmama rağmen yine para çekmişsiniz.",0
+"İletişim kuramıyoruz ki sorun çözülsün.",0
+"Sizin şirketinizde düzen diye bir şey kalmamış.",0
+"Beni anlamak yerine sürekli hazır metin okuyorsunuz.",0
+"Sizi tercih ettiğim için kendime çok kızıyorum.",0
+"Kurye paketi kapıya bırakıp kaçmış, çalınsaydı ne olacaktı?",0
+"Hangi yüzle benden yüksek puan bekliyorsunuz?",0
+"Aboneliğimi bugün sonlandırın, bir dakika bile kalmam.",0
+"Sizin yüzünüzden bütün planlarım iptal oldu.",0
+"Kırık gelen ürüne 'kullanıcı hatası' demek tam bir utanmazlık.",0
+"Borcu tahsil ederken saniyesinde yapıyorsunuz.",0
+"Sizin müşteri memnuniyeti anlayışınız sadece kağıt üzerinde.",0
+"Rezalet ötesi bir kargo süreci yaşadım.",0
+"Beni yine aramadınız, yine yalan söylediniz.",0
+"Sizinle konuştuğum her an vakit kaybı.",0
+"Hizmetinizi çöpe atsanız yeridir.",0
+"Böyle bir ilgisizliği daha önce hiçbir yerde görmedim.",0
+"Paramın iadesini kuruşu kuruşuna istiyorum.",0
+"Sizin şirketiniz müşteriyle dalga geçiyor resmen.",0
+"Hatalı fatura gönderip beni bankayla uğraştırıyorsunuz.",0
+"Siz sadece satış yapana kadar varsınız.",0
+"Markanızın ismini her yerden karalayacağım.",0
+"Sizin çözüm öneriniz dalga geçmekten başka bir şey değil.",0
+"Temsilcinizin ses tonundaki bıkkınlık beni daha çok gerdi.",0
+"Sizin kargonuzu bekleyeceğime kendim gidip alırdım.",0
+"Beni neden bu kadar çok bekletiyorsunuz, insanız biz.",0
+"Sizin markanız artık benim için bir kara liste.",0
+"Haksız kazanç sağlıyorsunuz, buna izin vermeyeceğim.",0
+"Ürünü aldığım güne lanet olsun, her yeri bozuk.",0
+"Sizden başka kimse bu kadar kötü hizmet vermez.",0
+"Mağduriyetimi kimse takmıyor, herkes birbirine atıyor.",0
+"Sizin kurumsallığınıza güvenip hata yapmışım.",0
+"Daha fazla sinirlerimi bozmayın, kapatın telefonu.",0
+"Sizin yüzünüzden tüm günüm stres içinde geçti.",0
+"İade ettiğim ürünün parasını hala bekliyorum, ayıp.",0
+"Sisteminiz o kadar hantal ki, hiçbir işlem yapılmıyor.",0
+"Müşteri temsilcisine ulaşmak için ömrümü harcadım.",0
+"Bana eksik bilgi verip yanlış paket aldırdınız.",0
+"Sizin markanızdan bir daha iğne bile almam.",0
+"Hizmet kalitesi sıfırın altında.",0
+"Beni neden hala aramadılar, teknik birim uyuyor mu?",0
+"Sizin yüzünüzden online randevumu kaçırdım.",0
+"Kargom neden başka bir şehre gönderilmiş, şaka mı bu?",0
+"Sizinle uğraşmak tam bir işkence.",0
+"Tavırlarınız hiç profesyonel değil, sokak ağzıyla konuşuyorsunuz.",0
+"İptal işlemini yapmamak için neden direniyorsunuz?",0
+"Sürekli hata mesajı alıyorum, bir ödeme yapamadım.",0
+"Beni kapıda bir saat beklettiniz, ayıp günah.",0
+"İşlem ücreti diye kestiniz para helal değil.",0
+"Sizin markanızdan soğudum, nefret ediyorum.",0
+"Hiçbir soruma mantıklı bir cevap alamadım.",0
+"Sadece paramızı alana kadar naziksiniz.",0
+"Gelen paket yırtık pırtıktı, içindeki ürün de hasarlı.",0
+"Sorumsuz bir tutum içindesiniz, kınıyorum.",0
+"Sizinle yaşadığım kaçıncı rezalet bu?",0
+"Beni çocuk gibi kandırmaya çalışmayın.",0
+"Sisteminiz çok karmaşık ve kullanışsız.",0
+"Beni arayacağınızı not almıştınız, yine aramadınız.",0
+"Yanlış yönlendirmeniz yüzünden cihazım bozuldu.",0
+"Hala 'durumunuzu inceliyoruz' diyorsunuz, neyi inceliyorsunuz?",0
+"Beceriksiz bir destek hattınız var, kapatın gitsin.",0
+"Sizin kurallarınız sadece sizi koruyor, müşteriyi değil.",0
+"Böyle bir duyarsızlık kabul edilemez, şikayetçiyim.",0
+"Sizin markanızla olan tüm ilişkimi kesiyorum.",0
+"Sürekli hat düşüyor, kasten mi yapıyorsunuz?",0
+"Neden bu kadar yavaşsınız, işimi bitirin artık.",0
+"Sizinle olan iletişimim tam bir kabus gibi.",0
+"İade kargosunun kargo parasını benden kesemezsiniz.",0
+"Sizinle konuşunca asabım bozuluyor, kapatıyorum.",0
+"Bana yanlış ürün gönderildi, telafi bile etmiyorsunuz.",0
+"Sizin yüzünüzden iş yerinde zor durumda kaldım.",0
+"Hizmet falan değil bu, resmen insan oyalama sanatı.",0
+"Beni o birimden bu birime savurup durmayın.",0
+"Sizin bayinizdeki çalışanlar aşırı saygısız.",0
+"Sizi her platformda rezil edeceğim, bekleyin.",0
+"Sorunum çözülmeden konuyu kapatamazsınız.",0
+"Sizinle anlaştığımız tarihte gelmediniz, zamanımı yediniz.",0
+"Beni duymuyor musunuz, neden cevap vermiyorsunuz?",0
+"Sizin yüzünüzden koca bir günü evde hapis geçirdim.",0
+"Beceremiyorsanız bu dükkanı kapatın gidin.",0
+"Sizinle geçen her dakikama yazıklar olsun.",0
+"Bana somut bir çözüm sunun, hikaye anlatmayın.",0
+"Sizin gibi bir kuruma güvenmekle hata yapmışım.",0
+"Beni daha fazla mağdur etmeye hakkınız yok.",0
+"Sizinle olan diyaloğum burada bitti, rezalet bir firmasınız!",0
+"Ödeme planımdaki taksit sayısını kontrol edebilir misiniz?",1
+"Hesabıma tanımlı olan cihazları görmek istiyorum.",1
+"Kullanım kotam dolduğunda hızım ne kadar düşer?",1
+"Gelen faturanın detaylı dökümünü talep ediyorum.",1
+"Adres değişikliği başvurusu için hangi kanal kullanılmalı?",1
+"Sistemde kayıtlı olan e-posta adresimi güncelleyeceğim.",1
+"Kargo takip ekranında 'aktarmada' ifadesi ne anlama geliyor?",1
+"Abonelik fesih işlemleri kaç iş günü sürüyor?",1
+"Hangi ödeme kanallarında komisyon alınmıyor?",1
+"Şifremi yenilemek için kayıtlı telefonuma kod gönderin.",1
+"Ürün teslimatı sırasında evde yoksak ne yapılıyor?",1
+"Garanti kapsamı dışındaki parça listesini istiyorum.",1
+"Mobil uygulama üzerinden bakiye yüklemesi yapacağım.",1
+"İşlem dekontunu tarafıma PDF olarak iletir misiniz?",1
+"Fatura itirazı için gerekli olan formun ismi nedir?",1
+"Üyelik tipimi kurumsaldan bireysele çevirmek istiyorum.",1
+"Kampanya katılımı için gerekli olan SMS kodunu aldım.",1
+"Hizmet kesintisi planlı bir çalışma mıydı?",1
+"Modemin arka panelindeki ışıkların anlamını soracaktım.",1
+"İade kargo poşetinin üzerine ne yazmam gerekiyor?",1
+"Kurye dağıtım saatlerini öğrenebilir miyim?",1
+"Sözleşmemin bitiş tarihini sistemden göremiyorum.",1
+"Aktivasyon için ekiplerin gelmesini bekliyorum.",1
+"Teknik destek talebim açık mı görünüyor?",1
+"Online ödeme ekranında hata kodu alıyorum.",1
+"Yedek parça temin süresi ortalama kaç gündür?",1
+"Cihazın seri numarasını nereye yazmalıyım?",1
+"Müşteri numaramı öğrenmek için aradım.",1
+"Bağlantı ayarlarını manuel olarak yapacağım.",1
+"Ip adresim statik mi yoksa dinamik mi?",1
+"Aylık kullanım limitimi aşarsam ne kadar ücret yansır?",1
+"Fatura kesim tarihimi ayın başına çekebilir miyiz?",1
+"Başvurumun hangi aşamada olduğunu sorgulayacaktım.",1
+"Eski kayıtlarımın arşivden çıkarılmasını istiyorum.",1
+"Sistemsel bir güncelleme mi yapılıyor?",1
+"Görüşme kayıtlarının incelenmesini talep ettim.",1
+"Kimlik fotokopisini mail olarak gönderdim.",1
+"Başka bir ödeme kartı tanımlamak istiyorum.",1
+"Abonelik dondurma hakkım var mı?",1
+"Kampanya bitişinden sonra güncel fiyat ne olur?",1
+"Yurt dışı çıkışlarında ek ücret yansıyor mu?",1
+"Kargo şubesinden teslim alabilir miyim?",1
+"İrsaliye ve fatura aynı zarfın içinde mi?",1
+"Ürün boyutlarının teknik çizimini istiyorum.",1
+"Hizmet alanı kapsama haritasına bakacağım.",1
+"Puanlarımın son kullanma tarihini soracaktım.",1
+"Şubeye gitmeden işlem yapılabiliyor mu?",1
+"Telefona gelen doğrulama linkine tıkladım.",1
+"Dosya eklerini sisteme yükleyemiyorum.",1
+"Randevu iptali için son süre nedir?",1
+"Yetkili kişiyle iletişime geçmek için bekliyorum.",1
+"Mevcut paketimde değişiklik yapmak istiyorum.",1
+"Borç dökümünü tarafıma mail atın.",1
+"İşlem sırasında ekran dondu, tekrar deneyeceğim.",1
+"Kurulum rehberini dijital olarak alabilir miyim?",1
+"Saha ekipleri ne zaman yola çıkar?",1
+"Modem arayüz şifresini hatırlamıyorum.",1
+"Bağlantı kablosunun uzunluğu ne kadardır?",1
+"Kutu içeriğinde garanti belgesi var mı?",1
+"Banka provizyonu neden bekliyor görünüyor?",1
+"İşlemimi başka bir temsilciye aktarın.",1
+"Ödeme yaptıktan sonra dekontu paylaştım.",1
+"Kupon kodu giriş ekranını bulamıyorum.",1
+"İletişim tercihlerimi mesaj olarak ayarladım.",1
+"Üyelik numaram üzerinden sorgulama yapın.",1
+"Tarife detaylarını PDF olarak istiyorum.",1
+"Hangi tarayıcı üzerinden giriş yapmalıyım?",1
+"Giriş yaparken kullanıcı adı hatası veriyor.",1
+"Sistemde bekleyen kaç talebim var?",1
+"Aktivasyon mesajının gelmesini bekliyorum.",1
+"Evraklarımın aslını kargoyla gönderdim.",1
+"Süreç hakkında sadece bilgi alacağım.",1
+"Sizin gibi bir markayla yollarımız kesiştiği için çok mutluyum.",2
+"Böyle bir ilgi gördükten sonra başka yere gitmem zaten.",2
+"Bu kadar profesyonel bir ekiple çalışmak güven veriyor, sağ olun.",2
+"İşte gerçek müşteri memnuniyeti budur, tebrik ederim.",2
+"Her kuruşu sonuna kadar hak ediyorsunuz, helal olsun.",2
+"Sizin bu çözümcü yaklaşımınız beni markanıza bağladı.",2
+"Daha önce neden sizi seçmediğimi sorguluyorum şu an.",2
+"Markanızın kalitesi verdiğiniz bu destekle belli oluyor.",2
+"Gözüm kapalı herkese tavsiye edebileceğim tek firmasınız.",2
+"Sizinle olan bağımız bu yardımdan sonra daha da güçlendi.",2
+"Samimiyetinizle kalbimi kazandınız, çok teşekkürler.",2
+"Böyle kaliteli bir hizmeti hiçbir yerde görmedim.",2
+"Siz benim kahramanımsınız, dertten kurtardınız beni.",2
+"Her aradığımda çözümle dönmeniz muazzam bir şey.",2
+"Kurumsallığı samimiyetle harmanlamışsınız, hayran kaldım.",2
+"Güvenimi bir kez daha boşa çıkarmadınız, sağ olun.",2
+"Sektördeki diğer firmalar sizden ders almalı.",2
+"Hizmet anlayışınız gerçekten takdire şayan.",2
+"Problemi değil, gönülleri çözüyorsunuz siz.",2
+"Bundan sonra tüm işlemlerimde tek adresim sizsiniz.",2
+"İnce düşünceniz ve hızınız beni benden aldı.",2
+"Sizin gibi bir ekip olduğu sürece sırtımız yere gelmez.",2
+"Her kuruşum size feda olsun, çok iyi iş çıkardınız.",2
+"Böyle bir nezaketle karşılaşmak bu devirde çok kıymetli.",2
+"Siz gerçekten bu işin zirvesindesiniz, elinize sağlık.",2
+"Talebimin bu kadar önemsendiğini görmek çok güzel.",2
+"Sadakatimizi sonuna kadar hak eden bir firmasınız.",2
+"İşinizi ne kadar ciddiye aldığınız her halinizden belli.",2
+"Sadece ürün satmıyor, dostluk kuruyorsunuz resmen.",2
+"Her şey için kalpten teşekkür ediyorum, iyi ki varsınız.",2
+"Sorunumu saniyeler içinde çözdüğünüz için minnettarım.",2
+"Sizlerle yol yürümek gerçekten büyük bir konfor.",2
+"Müşteri olarak kendimi hiç bu kadar değerli hissetmemiştim.",2
+"Sizin farkınız ilginiz ve alakanız, eksik olmayın.",2
+"Hızlı, çözüm odaklı ve çok naziksiniz, harika hizmet.",2
+"Mağduriyetimi sevince dönüştürdünüz, çok sağ olun.",2
+"Beni kırmayıp bu kadar yardımcı olmanız çok inceydi.",2
+"Tek kelimeyle mükemmelsiniz, diyecek başka bir şey yok.",2
+"Size olan güvenim bu konuşmadan sonra tavan yaptı.",2
+"Her şey tıkır tıkır işledi, sayenizde rahatladım.",2
+"İlgilendiğiniz her an için ayrı ayrı teşekkür ederim.",2
+"Sektörde sizin üzerinize tanımam, harikasınız.",2
+"Bu nezaketle devam ettiğiniz sürece her zaman yanınızdayız.",2
+"Verdiğiniz güven paha biçilemez, teşekkürler.",2
+"Sizinle çalışmak büyük bir ayrıcalık, çok sağ olun.",2
+"İşini layığıyla yapan bir kurum görmek beni mutlu etti.",2
+"Sorunlarımı kendi sorununuz gibi sahiplendiniz.",2
+"Mükemmel bir müşteri deneyimi yaşattınız, helal olsun.",2
+"Dürüstlüğünüz ve şeffaflığınız için minnettarım.",2
+"Daha iyisi olamazdı, her şey için çok sağ olun.",2
+"Vallahi yüzümü güldürdünüz, Allah da sizi güldürsün.",2
+"Sizinle konuştuğumdan beri moralim yerine geldi.",2
+"Hizmet değil, resmen sanat yapıyorsunuz.",2
+"Her aramada aynı kalitede cevap almak muazzam.",2
+"Bu ilginizi karşılıksız bırakmayacağım, herkese önereceğim.",2
+"Gerçekten müşteri odaklı olduğunuz her halinizden belli.",2
+"Sizleri tanıdığım için kendimi şanslı hissediyorum.",2
+"Problemlerimi çocuk oyuncağı gibi çözdünüz.",2
+"Markanızın sadık bir elçisi olacağım artık.",2
+"Beni kırmadığınız için size kalpten teşekkür ederim.",2
+"Bu nezaketiniz beni gerçekten çok duygulandırdı.",2
+"Sizler gibi insanlar olduğu sürece markanız batmaz.",2
+"Her şey için sonsuz minnettarım.",2
+"İşlemim beklediğimden çok daha kolay halloldu.",2
+"Talebimi saniyeler içinde onayladığınız için sağ olun.",2
+"Sizin markanız benim için güvenin adresi.",2
+"Hızır gibi imdadıma yetiştiniz, eksik olmayın.",2
+"Sizinle çalışmak büyük bir onur.",2
+"Ses tonunuzdaki nezaket bile sorunumu çözmeye yetti.",2
+"Gerçekten profesyonelliğin hakkını veriyorsunuz.",2
+"Tuttuğun altın olsun evladım, çok sağ ol.",2
+"Siz ne derseniz o, size güvenim tam.",2
+"Her aramada bu kadar kibar olmanız harika.",2
+"İşinizi severek yaptığınız her cümlenizden belli.",2
+"Beni büyük bir yükten kurtardınız, teşekkürler.",2
+"Sizin gibi bir temsilciyle konuşmak günümü güzelleştirdi.",2
+"Markanızın kalitesi sizin gibi ekiplerle yükseliyor.",2
+"Süreci o kadar şeffaf anlattınız ki hayran kaldım.",2
+"İçimi rahatlattınız, Allah razı olsun.",2
+"Siz varken başka bir yere bakmam bile.",2
+"Böyle dürüst bir hizmet anlayışı her yerde bulunmaz.",2
+"Verdiğiniz sözleri bir bir tuttuğunuz için sağ olun.",2
+"Sizinle çalışmak gerçekten çok huzurlu.",2
+"Talebimin bu kadar hızlı sonuçlanması muhteşem.",2
+"İhtiyacım olan tam olarak buydu, elinize sağlık.",2
+"Hayırlı işleriniz, bol kazançlarınız olsun.",2
+"Sizler markanızın en değerli varlıklarısınız.",2
+"Bu fiyata bu kalite inanılmaz, teşekkürler.",2
+"Kendi işinizmiş gibi ilgilenmeniz beni çok etkiledi.",2
+"Siz gerçekten çözümün adresisiniz.",2
+"Sizin samimiyetiniz bana çok güven verdi.",2
+"Hızınız ve alakanız için ne kadar teşekkür etsem az.",2
+"İşte profesyonel destek budur, helal olsun.",2
+"Müşteri değerini bize hissettirdiğiniz için sağ olun.",2
+"Sektörde sizin üzerinize tanımam, harikasınız.",2
+"Sorunumu şıp diye çözdünüz, minnettarım.",2
+"Sizinle kurduğumuz bu güven bağı kalıcı olacak.",2
+"Her şey tıkır tıkır işliyor, tebrik ederim.",2
+"Güler yüzlü hizmetiniz için çok sağ olun.",2
+"Siz ne güzel bir insansınız, teşekkürler.",2
+"Hayırlı ve bereketli işler dilerim.",2
+"Her şey için tekrar tekrar teşekkürler.",2
+"Sizinle konuşmak gerçekten moral veriyor.",2
+"İşini layığıyla yapanların sayısı artsın inşallah.",2
+"Beni hiç bekletmeden uğurladınız, sağ olun.",2
+"Markanızın sadık bir üyesi olarak kalacağım.",2
+"Siz olmasanız bu iş çıkmaza girerdi.",2
+"Beni kırmadığınız için size çok minnettarım.",2
+"Her kuruşum size feda olsun, elinize sağlık.",2
+"Yine imdadıma yetiştiniz, eksik olmayın.",2
+"Sizin gibi dürüst temsilciler hep var olsun.",2
+"Sağlıcakla kalın, her şey için teşekkürler.",2
+"kardesim kargo nerde ya 10 gun oldu gelmıyo şakamısınız sız",0
+"paramı gerı verın arkadasım kac kere arıycaz daha bıktım",0
+"rezaletttt bı hızmet sakın bulasmayın bunlara benden demesı",0
+"ya sız ne bicim sirketsiniz bi işi beceremıyonuz herşeyiniz bozuk",0
+"aradım aradım kımse acmıyo boyle ıs mı olur be yazıklar olsun",0
+"iade kodu aldık hala para yatmadı noluyo ya parayı mı yedınız",0
+"uygulama sureklı cokuyo gıremıyom sıfre bıle kabul etmıyo sacmalık",0
+"lan kurye kapıya gelmıyo bıde yalan soluyo geldık yoktunuz dıye",0
+"abı sakın almayın paramızla rezıl olduk valla bak soylıyım",0
+"musterı hızmetlerıne baglanana kadar omrum bitti kapayın dukkanı",0
+"yuh yani 1 saat bekletilirmi insan robotmusunuz nesiniz",0
+"internet yok diyorum hala fatura diyo ya sabır",0
+"dolandırıcı mısınız nesiniz param karsılıgı hizmet yok",0
+"sacma sapan bi sistem kurmussunuz hıcbısey calısmıyo",0
+"sıkayet etcem sızı heryere gorursunuz sız",0
+"bozuk urun yollayıp bide kullanıcı hatası dıyolar terbıyesızler",0
+"ya arkadasım baglantı sureklı kopuyo bı mac ızletmedınız",0
+"faturayı sısırmeyı bılıyosunuz ama icraat sıfır",0
+"yazıklar olsun sıze haram zıkkım olsun o paralar",0
+"bıktım sızınle ugrasmaktan baska sırkete gecıcem hemen",0
+"destek hattı dııl oyalama hattı masallah",0
+"sıze guvenıp ıs yapanın aklı yoktur valla",0
+"kurye paketı fırlatıp gıtmıs kutu paramparca sız ne ıse yararsınız",0
+"cevap verın lan ne bu sessızlık kac saattır",0
+"sistem hatası dıyıp durmayın cozum bulun artık",0
+"musterı memnunıyetı sıfırın altında bence",0
+"allah belasını versın boyle hızmetın",0
+"reklamda baska gelende baska resmen dolandırıcılık",0
+"sıze odedıgım her kurus haram olsun",0
+"kac defa yazcaz buraya cevap verın artık",0
+"uygulama acılmıyo hata kodu verıp duruyo",0
+"teknık ekıp gelcektı hıc bırı gelmedı evde beklettınız",0
+"yalan soluyosunuz herseyınız yalan",0
+"kargo beklerken agac olduk be yeter",0
+"ıcınden eksık parca cıktı kontrol etmıyonuzmu sız",0
+"suratımıza kapattılar telefonu terbıyesız herıfler",0
+"ıade parası 1 ay oldu yatmadı nerde bu para",0
+"sacma sapan bı destek hattı kurmussunuz",0
+"valla bıktırdınız canımızdan baska yere gıtcez mecbur",0
+"sisteminiz cok yavas calısmıyo hıcbısey",0
+"sıkayetımı kımse takmıyo burda bosunamı konusuyoz",0
+"sıfır yıldız olsa onu verırdım okadar kotu",0
+"dıger fırmalar sızden cok daha ıyı",0
+"kurye cok kaba azar cekıyo bıde",0
+"sıfre sıfırlıcam lınk gelmıyo maıle",0
+"faturam neden fazla geldı acıklayın hemen",0
+"rezalet otesı bı yer kımseye onermıyorum",0
+"lanet olsun sıze bulastıgım gune",0
+"maddi zararım var kım odeyecek bunu",0
+"sırf ıptal etmemek ıcın ugrastırıyonuz adamı",0
+"sıze guvendım magdur oldum valla",0
+"ses kayıtlarını dınleyın temsilci cok saygısız",0
+"internet hızı cok dusuk para tam ama hız yok",0
+"kampanya dıosunuz fiyatı arttırıyonuz",0
+"urunun her yerı cızık geldı kullanılmışmı bu",0
+"avukatıma verıcem sızı gorursunuz ozman",0
+"burası cok amator bı yer hıc yakısmadı",0
+"zamanımızı calıyonuz baska bısey deıl",0
+"sizin yuzunuzden ısımden oldum bugun",0
+"kargo kodunu neden yollamıyonuz 3 gun oldu",0
+"uyelık ıptal edın dıyorum yapmıyosunuz",0
+"ıade kargosunu benden kesmıssınız sacmalık",0
+"sıze yazdıgım maıllere neden cvp yok",0
+"dolandırıcılıgın adı musterı hızmetlerı olmus",0
+"kutu acık geldı emınım bırı kullanmıs bunu",0
+"randevu saati gectı kımse yok ortada",0
+"sureklı hata mesajı alıyorum bıktım",0
+"hızmet vermıyonuz resmen dalga gecıyonuz",0
+"dıgerlerıne gore cok kotusunuz valla",0
+"baglantı kopup duruyo hıcbısey yapılmıyo",0
+"paramızla rezıl olduk valla pes sızlere",0
+"ıcınden yanlıs urun cıktı sasırdıkmı hayır",0
+"sizi her yerde kotulıcem gorun sız",0
+"musterı temsılcısı hıcbısey bılmıyo",0
+"sıkayet var a yazdım sızı bekleyın",0
+"bu fırmadan hıcbısey alınmaz sakın",0
+"kurye kapıya bırakıp kacmıs calınsa nolcak",0
+"ekstra ucret cıkarmıssınız haberım yoktu",0
+"hakkımı helal etmıyorum cok ugrastırdınız",0
+"sıstemınız cok karısık hıcbısey anlasılmıyo",0
+"telefonu acan kısı cok saygısızdı",0
+"ıptal butonunu saklamıssınız resmen",0
+"yalan dolan herseyınız bıktık artık",0
+"valla rezıllık baska bısey dııl bu",0
+"ınternet hızı yerlerde surunuyo",0
+"faturayı sısırmıssınız haksız kazanc bu",0
+"kargo gelmıyo kurye telefonuda acmıyo",0
+"sıze bulastıgım gune lanet olsun be",0
+"herseyınız eksık herseyınız hatalı",0
+"sacma sapan bır musterı hızmetlerı",0
+"dıger fırmalar sızden kat kat ıyı",0
+"hıcbıseyı beceremeyen bı ekıp",0
+"paramı ıade edın hemen beklıyorum",0
+"sıkayet kaydı ac dıyosunuz ama sonuc yok",0
+"valla bıktım sızınle konusmaktan bıle",0
+"urunu gerı yolladım para hala yok",0
+"sizin yuzunuzden sınava gıremedım",0
+"internet sürekli kesiliyo bıktım valla",0
+"musterı hızmetlerı dııl oyalama hızmetlerı",0
+"yazıklar olsun sızın gıbı sırkete",0
+"lanet gelsin yapcanız işe her yer bozuk",0
+"paramla rezillik çekiyorum resmen şaka",0
+"kurye kapıyı bile çalmamış yalan söylüyo",0
+"internet yok ama fatura tam geliyo helal",0
+"rezillik diz boyu valla hiç bulaşmayın",0
+"temsilci beni azarladı resmen terbiyesiz",0
+"bi iadeyi yapamadınız 1 ay oldu ayıp",0
+"kargo şubede bekliyo kimse getirmiyo",0
+"yanlış ürün yollamışlar bi de kargo parası istiyolar",0
+"sisteminiz batsın bi şifre alamadık",0
+"başka operatöre geçiyorum bugün bıktım",0
+"müşteri hizmetleri robot gibi aynı şeyi diyo",0
+"yalan dolan kampanya fiyatlar uçmuş",0
+"mağdur ettiniz bizi allah razı olmasın",0
+"bozuk cihazı satıp kaçtınız resmen",0
+"arayacağız diyip aramadılar yine yalan",0
+"telefonu yüzüme kapattılar inanamıyorum",0
+"faturada ek ücret var ne bu açıklayın",0
+"interneti kesin istemiyorum sizin hizmetinizi",0
+"şikayet etçem tüketici haklarına görün siz",0
+"paramızı çöpe atıyoruz resmen yazık",0
+"destek hattı diye bişey yok bekletiyolar sadece",0
+"valla bezdim sizinle uğraşmaktan yeter",0
+"ürün kırık geldi paketleme sıfır",0
+"sizin kurumsallığınız sadece reklamda",0
+"aylık ücreti çekmeyi biliyosunuz ama hizmet yok",0
+"mağduriyetimi kimse takmıyo şaka gibi",0
+"çözüm yok sadece kayıt açıyolar boş boş",0
+"internetteki resimle gelen ürün alakasız",0
+"kurye çok kaba dövecekti nerdeyse",0
+"uygulama sürekli hata veriyo girilmiyo",0
+"paramı geri verin kardeşim dolandırıcı mısınız",0
+"yıllardır aboneyiz gördüğümüz muameleye bak",0
+"bi muhatap bulamıyoruz koca şirkette",0
+"interneti bağlamaya gelmediler 1 hafta oldu",0
+"sistem hatası diyip durmayın çözüm bulun",0
+"rezalet bi kargo firmasıyla çalışıyosunuz",0
+"ürünün her yeri çizik ikinci el mi bu",0
+"mail attık dönen yok aradık açan yok",0
+"sabah randevu verdiler akşam oldu yoklar",0
+"faturayı ödedim hala internet kapalı",0
+"müşteri temsilcisi dünyadan bi haber",0
+"sinir krizi geçirtirsiniz insana kapatın dükkanı",0
+"iade kodu gelmiyo sistem bozukmuş hep",0
+"paranla rezil olmak istiyosan buraya gel",0
+"hiç tavsiye etmiyorum sakın almayın",0
+"teknik servis geldi bişey yapmadan gitti",0
+"fatura neden her ay artıyo kardeşim",0
+"üyelik iptali için bin dereden su getiriyolar",0
+"yazıklar olsun verdiğim paralara haram olsun",0
+"şikayet var sitesine yazdım rezilliğinizi",0
+"kargo teslim edildi diyo ama paket yok",0
+"bağlantı hızı yerlerde video bile izlenmiyo",0
+"temsilci çok lakayıt konuştu az önce",0
+"para iadesi neden 14 gün sürüyo şaka mı",0
+"internet sürekli kopuyo bi çözüm bulun",0
+"reklamlar yalan gerçekler rezalet",0
+"kurye paketi kapıya fırlatmış kırılmış",0
+"bi dertten kurtulalım dedik bin derte girdik",0
+"müşteri hizmetleri telefonu açmıyo bekliyoruz",0
+"kayıt açtık diyosunuz ama sms yok",0
+"dolandırıldık resmen hizmet sıfır",0
+"cihaz bozuk çıktı değişim yapmıyolar",0
+"valla bin pişmanım bulaştığıma",0
+"kargo takibi yapılamıyo sistem çökmüş",0
+"şikayetimi kapatmışlar sorun çözülmeden",0
+"müşteriye saygınız hiç kalmamış",0
+"para çekerken hızlı hizmette yavaşsınız",0
+"bi kargo kodu veremediniz 3 gündür",0
+"interneti iptal edin bıktım kesintiden",0
+"cihaz ısınma yapıyo normal diyolar yanınca mı gelçeniz",0
+"yalan söylüyosunuz evdeydim kurye gelmedi",0
+"faturada ne olduğu belirsiz ücretler var",0
+"başka firmaya geçmek en doğrusuymuş",0
+"uygulama donup kalıyo bi işe yaramaz",0
+"mağdurum kardeşim çözün şu işi artık",0
+"müşteri hizmetleri bişeyden anlamıyo",0
+"bi şifreyi bile sıfırlayamadınız rezillik",0
+"interneti kapayın faturayı da ödemiyorum",0
+"yazıklar olsun sizin kurumsallığınıza",0
+"kargom nerde kardeşim 2 hafta oldu",0
+"para iadesi yapmıyolar oyalayıp duruyolar",0
+"kurye telefonu meşgule atıyo şaka gibi",0
+"cihazın garantisi var ama ücret istiyolar",0
+"internetin hızı kaplumbağa gibi yeminle",0
+"reklamda hızlı diyolar evde çekmiyo",0
+"faturayı neden şişirdiniz bu ay",0
+"müşteri hizmetlerine bağlanmak mucize",0
+"iade etçem ürünü kod vermiyolar",0
+"şikayet etçem sizi her yere bekleyin",0
+"valla rezilsiniz başka bişey değil",0
+"paramı geri verin sizinle işim olmaz",0
+"kurye kapıda azar çekiyo bi de",0
+"mağdur ettiniz bizi bütün gün beklettiniz",0
+"hiçbişey düzgün çalışmıyo sisteminizde",0
+"üyeliği iptal etmiyolar zorla tutuyolar",0
+"yazıklar olsun haram zıkkım olsun para",0
+"internet sürekli gidiyo bi iş yapamadık",0
+"müşteri hizmetleri telefonu suratıma kapattı",0
+"rezalet bir firmasınız bir daha asla!",0
+"valla helal olsun kargo 1 gunde geldı sasırdım valla tsk",2
+"kardesım adamsın cok yardımcı oldun hersey gonlunce olsun",2
+"ıyıkı varsınız sorunumu şıp dıye cozdunuz valla helal",2
+"canını yediğim cok sagol valla dertten kurtardın bızı",2
+"super hizmet boyle devam arkadaslar herkeze tavsıye edıcem",2
+"tesekkurler ablacım cok kıbarsın cok tsk ederım hersey ıcın",2
+"valla sızden baskasından almam artık kral sızsınız",2
+"işlem tamam cok sagolun valla bu kadarını beklıodum ztn",2
+"eyvallah baskan yardımların ıcın cok makbule gectı",2
+"hizmet 10 numara 5 yıldız hıc dusunmeden alın derım",2
+"cansınız valla sorunu saniyede cozdunuz",2
+"kardesım helal olsun ısınızın hakkını verıosunuz",2
+"valla sızın gıbılerın sayısı artsın dunya guzellesır",2
+"hızır gıbı yetıstınız abı cok sagolun valla",2
+"dıger sırketler halt etmıs yanınızda sız teksınız",2
+"kargo uctu geldı resmen bu ne hız arkadaslar tsk",2
+"valla bıraz suphelıydım ama helal olsun harıkasınız",2
+"yıne yaptınız yapacagınızı cok tsk hersey ıcın",2
+"adamsınız valla baska bısey demıorum",2
+"bu fıyata bu ılgı valla pes helal olsun sızlere",2
+"sorun falan kalmadı usta eyvallah cok saolasın",2
+"sıze 10 puan bıle az valla masallah",2
+"hersey tıkırında valla tık dıye halloldu",2
+"valla moralımı duzelttınız gece gece sagolun",2
+"super ekıp super hızmet boyle devam kral",2
+"kargo paketleme cok iyiydi zor actım valla tskler",2
+"valla bekledıgımden cok daha ıyı cıktı helal",2
+"musterı hızmetlerı cok ılgılıydı valla helal olsun",2
+"hersey ıstedıgım gıbı geldı cok tsk ederım sızlere",2
+"valla sız bu ısı bılıyosunuz baska soze gerek yok",2
+"eyvallah usta sorun cozuldu hayırlı ısler",2
+"valla sızden cok memnun kaldım herkeze dıcem",2
+"cok nazık bı beyfendıydı yardımcı olan kısı tsk",2
+"ınternet hızı uctu resmen cok saolun valla",2
+"valla sızınle calısmak buyuk keyıf herkeze onercem",2
+"isiniz rast gıtsın cok yardımcı oldunuz valla",2
+"valla boyle hızmet goremedık hıcbı yerde",2
+"eyvallah canım kardesım hersey cok guzel",2
+"valla musterı memnunıyetı budur ıste helal",2
+"cok saolun hersey tıkır tıkır ıslıyo masallah",2
+"valla sız bu ısı asmışsınız arkadaslar tsk",2
+"ıyıkı sızı secmısım hıc pısman deılım valla",2
+"kargo hızı efsane valla dun verdım bugun bende",2
+"valla hersey 10 numara olmus elınıze saglık",2
+"musterı temsılcısı cok yardımcı oldu saolsun",2
+"valla cok ugrastınız bızımle hakkınızı helal edın",2
+"hersey cok kolay halloldu cok tesekkurler",2
+"valla sızın gıbı kalıtelı yer az kaldı",2
+"eyvallah abıcım hersey gonlunce olsun tsk",2
+"valla sızden cok memnunum boyle devam",2
+"helal olsun be beklediğimden hızlı geldi",2
+"valla adamsınız her sorunu çözüyonuz helal",2
+"internet uçuyo resmen elinize sağlık valla",2
+"temsilci çok nazikti valla helal olsun ona",2
+"kargo çok hızlıydı şaştım kaldım valla tsk",2
+"eyvallah usta herşey istediğim gibi sağol",2
+"valla bu fiyata bu hizmet inanılmaz süper",2
+"müşteri hizmetleri çok ilgiliydi valla helal",2
+"valla sorun falan kalmadı sayenizde sağolun",2
+"herkeze tavsiye edicem valla çok iyisiniz",2
+"canımsınız valla işimi şak diye hallettiniz",2
+"valla helal olsun işini hakkıyla yapıyosunuz",2
+"baş tacısınız valla herşey için çok tsk",2
+"hızır gibi yetiştiniz valla çok sağolun",2
+"valla diğerleri halt etmiş yanınızda teksiniz",2
+"kargo ışık hızında geldi resmen helal",2
+"valla şüphem vardı ama çok iyi çıktınız tsk",2
+"adamsın kardeşim çok yardımcı oldun sağol",2
+"valla moralimi düzelttiniz akşam akşam tsk",2
+"helal olsun size herşey on numara beş yıldız",2
+"valla çok naziksiniz günümü güzelleştirdiniz",2
+"işlem tamamdır usta elinize kolunuza sağlık",2
+"valla süper ekip süper hizmet valla helal",2
+"eyvallah başkan herşey yolunda çok sağol",2
+"valla sızden cok memnunum hep sızden alcam",2
+"müşteri temsilcisi çok yardımcı oldu saolsun",2
+"valla helal olsun be bu ne hız böyle tsk",2
+"iyiki varsınız valla dertten kurtardınız beni",2
+"valla herşey tıkırında gidiyo maşallah",2
+"adamsınız valla başka söze gerek yok helal",2
+"valla süpersiniz her sorunu hallediyonuz",2
+"kargo paketleme efsane valla tskler",2
+"valla çok profesyonelsiniz helal olsun",2
+"eyvallah usta sorun çözüldü sağol valla",2
+"valla herşey on numara olmuş helal",2
+"müşteri hizmetleri çok nazikti valla tsk",2
+"valla sorunsuz halloldu herşey elinize sağlık",2
+"helal olsun be bu devirde böyle hizmet",2
+"valla çok memnun kaldım herkeze onercem",2
+"adamsınız kardeşim başka bişey demiyorum",2
+"valla işin ehli olduğunuz belli helal",2
+"eyvallah baskan yardımların için sağol",2
+"valla hızınız beni benden aldı helal",2
+"müşteri temsilcisi çok kibardı valla tsk",2
+"valla herşey istediğim gibi geldi sağolun",2
+"helal olsun valla çok yardımcı oldunuz",2
+"valla süpersiniz böyle devam arkadaslar",2
+"eyvallah usta herşey çok güzel sağol",2
+"valla çok nazik bi beyfendiydi tskler",2
+"valla helal olsun sorunumu çözdünüz hemen",2
+"abi valla helal olsun kargo jet gibi geldi",2
+"valla adamsınız işimizi şıp diye çözdünüz",2
+"internet fişek gibi oldu valla sağolasınız",2
+"temsilci hanım çok ilgiliydi valla tskler",2
+"kargo paketleme on numara olmuş helal",2
+"eyvallah usta herşey istediğimiz gibi tsk",2
+"valla bu fiyata bu kalite pes helal olsun",2
+"müşteri hizmetleri çok tatlıydı valla helal",2
+"valla dert falan kalmadı sayenizde sağol",2
+"herkeze tavsiye ediyorum valla süpersiniz",2
+"cansın valla işimi saniyede bitirdin helal",2
+"valla helal olsun işini seven belli oluyo",2
+"baş tacısınız kardeşim herşey için tsk",2
+"hızır gibi imdadıma yetiştin valla sağol",2
+"valla diğer fırmalar sızden ders almalı",2
+"kargo uçakla geldi sanki bu ne hız tsk",2
+"valla helal olsun herşey 10 numara beş yıldız",2
+"adamsın usta çok yardımcı oldun valla",2
+"valla moralim yerine geldi sayenizde tsk",2
+"helal olsun size herşey çok profesyonel",2
+"valla çok nazik bi hanımefendiydi tsk",2
+"işlem tamam usta eline koluna sağlık",2
+"valla süper hizmet böyle devam kral",2
+"eyvallah başkan herşey yolunda tskler",2
+"valla sızden cok memnunum hep sızleyım",2
+"müşteri temsilcisi çok cana yakındı sağol",2
+"valla helal be bu ne sürat böyle tsk",2
+"iyiki varsınız valla kurtardınız bizi",2
+"valla herşey tıkır tıkır işliyo maşallah",2
+"adamsınız valla başka söze hacet yok",2
+"valla süpersiniz her işi hallediyonuz",2
+"kargo paketleme efsane olmuş valla tsk",2
+"valla çok dürüst bi firmasınız helal",2
+"eyvallah usta sorun falan kalmadı tsk",2
+"valla herşey mükemmel olmuş elinize sağlık",2
+"müşteri hizmetleri çok kibardı valla helal",2
+"valla sorunsuz bitti herşey sağolasınız",2
+"helal olsun valla bu devirde zor böylesi",2
+"valla çok memnunum herkeze onercem",2
+"adamsınız valla helal olsun size",2
+"valla işinizi biliyosunuz helal olsun",2
+"eyvallah usta yardımların için sağolasın",2
+"valla hızınız şaşırttı beni helal olsun",2
+"müşteri temsilcisi çok bilgiliydi tsk",2
+"valla herşey istediğim gibi geldi sağol",2
+"helal olsun valla çok ilgiliydiniz tsk",2
+"valla süpersiniz böyle devam edin helal",2
+"eyvallah başkan herşey süper sağol",2
+"valla çok nazik bi arkadaş yardımcı oldu",2
+"valla helal olsun sorunumu hemen çözdüler",2
+"kardeşim valla helal kargo jet hızıyla geldi",2
+"valla adamsınız işimizi saniyede çözdünüz",2
+"internet fısek gibi valla sağolasınız tsk",2
+"temsilci bey çok ilgiliydi valla helal ona",2
+"kargo paketlemesi cok sağlamdı valla helal",2
+"eyvallah usta herşey tam istediğim gibi",2
+"valla bu fıyata boyle hızmet pes helal",2
+"müşteri hizmetleri çok samimiydi valla",2
+"valla sorun morul kalmadı sayenizde tsk",2
+"herkeze tavsıye edıcem valla cok ıyısınız",2
+"cansınız valla işimizi tık diye hallettiniz",2
+"valla helal olsun işini hakkıyla yapıyosunuz",2
+"baş tacısınız valla herşey için tskler",2
+"hızır gibi yetiştin usta valla sağol",2
+"valla diğer yerlere bin basarsınız helal",2
+"kargo uçtu geldi resmen bu ne hız tsk",2
+"valla helal be herşey on numara beş yıldız",2
+"adamsın kardeşim çok yardımcı oldun tsk",2
+"valla moralim düzeldi sayenizde sağolun",2
+"helal olsun valla herşey çok profesyonel",2
+"valla cok nazık bı hanımdı yardımcı olan",2
+"işlem tamam usta elıne koluna saglık",2
+"valla super hızmet boyle devam kral",2
+"eyvallah baskan hersey tıkırında tsk",2
+"valla sızden cok memnunum hep sızdeyım",2
+"musterı temsılcısı cok nazıktı saolsun",2
+"valla helal olsun bu hız sasırtıyo tsk",2
+"ıyıkı varsınız valla dertten kurtardınız",2
+"valla hersey cok guzel halloldu saolun",2
+"adamsınız valla baska söze hacet yok",2
+"valla supersınız herısı halledıyonuz",2
+"kargo paketleme cok saglam valla tsk",2
+"valla cok durust bı fırmasınız helal",2
+"eyvallah usta sorun falan kalmadı sagol",2
+"valla hersey mukemmel olmus elınıze saglık",2
+"musterı hızmetlerı cok kıbardı valla",2
+"valla sorunsuz bıttı hersey sagolasınız",2
+"helal olsun valla bu devırde zor boylesı",2
+"valla cok memnunum herkeze onercem sızı",2
+"adamsınız valla baska bısey demıyorum",2
+"valla ısınızı bılıyosunuz helal olsun sıze",2
+"eyvallah usta yardımların ıcın sagol",2
+"valla hızınız sasırtıyo bızı helal",2
+"musterı temsılcısı cok bılgılıydı tsk",2
+"valla hersey ıstedıgım gıbı geldı saol",2
+"helal olsun valla cok ılgılıydınız tskler",2
+"valla supersınız boyle devam edın helal",2
+"eyvallah baskan hersey super saolun",2
+"valla cok nazık bı arkadas yardımcı oldu",2
+"valla helal olsun sorunumu hemen cozduler",2
+"slm benım kargo ne zman gelır bakabılırmısın",1
+"sıfre unuttum yenı sıfre gelmıyo telefona bı baksanız",1
+"fatura gelmedı mailime nerden bakcam buna",1
+"iade süresı ne kdar dı 14 gun mü gecmısmi bı bakın",1
+"adresımı degıstırcem sıstme gıremıyom yardımcı olurmusun",1
+"bu urun stokta varmı bıde ne zaman gelır bıtınce",1
+"kampanya bitimi ne zman ucret ne kdar olcak",1
+"tekrar ararmısınız suan musaıt deılım aksam 8 gıbı",1
+"modem ısıgı yanmıyo kırmızı yanıyo suan internet yok",1
+"kayıt actım dıyosunuz ama sms gelmedı bana kontrol edın",1
+"abi kurye bugun gelırmı evde beklıyorum da",1
+"fiyat listesını nerden goruruz bulamadım sıtede",1
+"odeme yaptım ama hala borc gozukuyo bı baksanıza",1
+"garantı belgesı kutudan cıkmadı ne yapmam lazm",1
+"teknık servıs gelcektı bugun kac gıbı gelır acaba",1
+"sıparıs onaylandımı mail gelmedı cunku",1
+"telefon no guncellıcem ama hata verıyo sıstem",1
+"yurt dısına gonderım varmı ucret ne kdar",1
+"paket ıcerıgınde baska ne var sıtede yazmıyo",1
+"limit ne kdar suan goremedım uygulamadan",1
+"dosya yuklucem ama format yanlıs dıyo nolcak",1
+"sıra numaram kactı acaba bakabılırmısınız",1
+"modem resetledım ama hala ısıklar yanmıyo",1
+"iade kargo kodunu mesaj atarmısınız",1
+"uyelık ıptalı ıcın nereye yazıyoruz bulamadım",1
+"karttan para cekılmıs ama sıparıs gozukmuyo",1
+"bu modelın baska rengı varmı elınızde",1
+"musterı numaramı unuttum nerden ogrenırım",1
+"canlı destege nasıl baglanıyoruz bulamadım",1
+"kurye gelınce aramıcakmı kapıdamı beklicez",1
+"fatura kesım gununu degıstırebılıyozmu",1
+"puanlar ne zmana kdar gecerlı acaba",1
+"sıstemde gozuken adres eskı guncellermısınız",1
+"odeme makbuzunu nereye atıyoruz",1
+"servıs ucretı ne kdar standartmı",1
+"urun ne zman kargoya verılır tahmınen",1
+"uygulama guncelleme ıstıyo ama acılmıyo",1
+"sıte uzerınden onay verdım gozukuyomu",1
+"ek paket fıyatlarını nerden goruruz",1
+"randevu saatı ıcın sms gelcekmı",1
+"hesap dokumunu maıl atarmısınız bana",1
+"baglantı ayarlarını kım yapcak bızmı",1
+"iptal dılekcesı nereye gonderılcek",1
+"kargo takıp lınkı calısmıyo suan",1
+"teslımat suresı kac gun normalde",1
+"sıstem hatası verıyo ekran goruntusu atayımmı",1
+"modem kurulumu ıcın kım gelcek",1
+"uye olmadan alısverıs yapılıyomu",1
+"hedıye cekı nasıl kullanılıyo sıtede",1
+"onay kodunu tekrar yollarmısınız",1
+"kurye bugün mü gelçek yoksa yarın mı",1
+"şifremi sıfırladım ama giriş yapamıyorum",1
+"faturamın dökümünü istiyorum mail olarak",1
+"iade süreci nasıl işliyo bilgi verirmisiniz",1
+"adres bilgilerimi güncelliycem ama ekran donuyo",1
+"bu ürünün garantisi kaç yıl acaba",1
+"kampanyaya nasıl katılıyoruz bulamadım",1
+"şu an müsait değilim 1 saat sonra arayın",1
+"modem ışığı yanmıyo teknik ekip lazım",1
+"kayıt açıldı mı bilgi mesajı gelmedi",1
+"kurye geldi mi gelmedi mi belli değil",1
+"fiyat listesi güncel mi sitedeki",1
+"ödemeyi yaptım dekontu nereye göndericem",1
+"garanti belgesini sistemden alabiliyormuyuz",1
+"teknik servis kaçta burda olur acaba",1
+"sipariş durumum hala hazırlanıyor diyo",1
+"telefon numaramı değiştirmek istiyorum",1
+"yurt dışına kargo gönderiyormusunuz",1
+"paket içeriğinde kulaklık var mı",1
+"limitim ne kadar kalmış göremiyorum",1
+"dosya yükleyemedim format hatası veriyo",1
+"sıra numarasını telefondan alabiliyormuyuz",1
+"modemi resetledim ama internet gelmedi",1
+"iade kodunu sms olarak atarmısınız",1
+"üyeliğimi nasıl sonlandırırım bilgi lazm",1
+"kartımdan çekim yapılmış sipariş yok",1
+"ürünün beyaz rengi stokta var mı",1
+"müşteri no nerde yazıyo bulamadım",1
+"canlı destek ne zaman aktif olur",1
+"kurye aramadan mı geliyo kapıya",1
+"fatura tarihini değiştirmek mümkün mü",1
+"puanların son kullanma tarihi nedir",1
+"adresimi yanlış girmişim düzeltebilirmiyiz",1
+"ödeme dekontunu hangi maila atıcam",1
+"servis ücreti ne kadar çıkıyor",1
+"ürün ne zaman çıkar yola tahminen",1
+"uygulama hata veriyo açılmıyo telde",1
+"siteden onay verdim sisteme düştü mü",1
+"ek paket fiyatları ne kadar acaba",1
+"randevu teyidi için arıycakmısınız",1
+"ekstreyi mail adresime gönderirmisiniz",1
+"bağlantı ayarlarını biz mi yapıyoruz",1
+"iptal formunu nereye yollamalıyım",1
+"kargo linki bozuk açılmıyo şu an",1
+"teslimat kaç iş günü sürüyo genelde",1
+"ekran görüntüsü aldım nereye gönderiyim",1
+"modem ayarları için teknik ekip gelçek mi",1
+"üye olmadan sipariş verebilirmiyim",1
+"hediye çeki kodu nereye giriliyo",1
+"onay mesajı hala gelmedi telefona",1
+"abi kurye bugün gelir mi evdeyim",1
+"şifremi unuttum butonu çalışmıyo sanki",1
+"fatura detayına nerden bakılıyo",1
+"iade için kurye mi çağırmalıyım",1
+"adresimi güncelledim ama hala eski adres",1
+"bu cihazın kutusunda neler var",1
+"kampanya kodunu nereye yazıcam",1
+"şu an işteyim akşam 6 gibi arayın",1
+"modemin dsl ışığı yanmıyo sabahtan beri",1
+"kayıt numaramı mesaj atarmısınız",1
+"kurye teslimat yaptı mı yapmadı mı",1
+"fiyatlar güncellendi mi acaba bugün",1
+"ödemeyi eft yaptım ne zaman onaylanır",1
+"garanti sorgulamayı nerden yapıyoruz",1
+"servis gelmeden önce arıycak mı",1
+"siparişim ne zaman kargoya verilir",1
+"tel numaramı değiştircem ama hata veriyo",1
+"yurt dışı gönderim ücreti nedir",1
+"paket içeriğinde şarj aleti var mı",1
+"limitim ne kadar kalmış bakarmısınız",1
+"pdf dosyasını yükleyemedim sisteme",1
+"sıra ne zaman bana gelir acaba",1
+"modemi kapattım açtım ama tık yok",1
+"iade kargo barkodunu gönderirmisiniz",1
+"üyelik kapatma işlemi nasıl yapılıyo",1
+"para çekildi ama onay maili gelmedi",1
+"bu ürünün başka modeli var mı",1
+"müşteri numaramı hatırlamıyorum bakarmısınız",1
+"canlı desteğe bağlanamıyorum neden",1
+"kurye kapıya mı bırakıyo teslimatı",1
+"fatura kesimini ayın 15ine çekebilirmiyiz",1
+"puanlarım ne zaman silinir acaba",1
+"adreste kimse yok kargo nereye gider",1
+"dekontu whatsapptan atabiliyormuyuz",1
+"servis ücreti faturaya mı yansıyo",1
+"ürün stokta var mı şu an",1
+"uygulama güncellendi ama hala aynı",1
+"onay verdim ama işlem bekliyor diyo",1
+"ek paketleri nerden görebilirim",1
+"randevu saati için onay bekliyorum",1
+"ekstre dökümünü rica etsem mail atarmısınız",1
+"ayarları kendimiz mi yapçaz yoksa siz mi",1
+"iptal dilekçesini sisteme mi yüklicem",1
+"kargo takip no neden görünmüyo",1
+"teslimat süresi hakkında bilgi istiyorum",1
+"hata mesajı veriyo sistem bakarmısınız",1
+"modem kurulumu ne kadar sürer",1
+"üye girişi yapmadan fiyat görülmüyo mu",1
+"hediye çekini nasıl aktif ederim",1
+"onay kodu gelmiyo kaç kere denedim",1
+"selam kargo ne durumda bakarmısınız",1
+"şifre yenileme linki gelmedi telefona",1
+"fatura detaylarını görmek istiyorum",1
+"iade için kargo şirketini mi arıcam",1
+"adres değişikliğini nasıl yapıcam",1
+"ürün stokta mı bittimi acaba",1
+"kampanya şartlarını nerden okuyabilirim",1
+"şimdi müsait değilim yarın ararmısınız",1
+"modem arızası için kayıt açmak istiyom",1
+"kayıt alındı mı sms gelmedi de",1
+"kurye bugün mü gelçek bilgi lazm",1
+"güncel fiyatları öğrenebilirmiyim",1
+"ödemeyi yaptım sistem ne zaman görür",1
+"garanti belgesi çıkmadı kutudan",1
+"servis gelince beni ararmı acaba",1
+"siparişim kaç güne kargolanır",1
+"tel numaramı nasıl güncellerim",1
+"yurt dışına kargo gidiyomu ücret ne",1
+"paket içinde başka bişey varmı",1
+"limit sorgulama nasıl yapılıyo",1
+"belgeyi taratıp maille gönderdim",1
+"sıra ne zaman bana gelcek acaba",1
+"modem ışıkları sönük internet yok",1
+"iade kodunu tekrar atarmısınız",1
+"üyeliği nasıl bitiriyoruz bilgi varmı",1
+"karttan çekilmiş ama sipariş no yok",1
+"başka renk seçeneği varmı bu üründe",1
+"müşteri no unuttum yardım lazm",1
+"canlı destek şu an açık mı acaba",1
+"kurye gelince kapıyı mı çalıyo",1
+"fatura tarihini değiştirebiliyormuyuz",1
+"puanların süresi ne zaman doluyo",1
+"adresi yanlış girmişim nasıl düzelir",1
+"dekontu hangi adrese göndericem",1
+"servis ücreti ne kadar tutuyo",1
+"ürün ne zaman yola çıkar",1
+"uygulama güncellenmiyo hata veriyo",1
+"onay verdim sisteme düştümü acaba",1
+"ek paketler hakkında bilgi istiyorum",1
+"randevu için mesaj gelecek mi",1
+"ekstre bilgisini mail atabilirmisiniz",1
+"ayarları bızmı yapcaz teknik ekıpmı",1
+"iptal formunu nereye yolluyoz",1
+"kargo lınkı calısmıyo su an",1
+"teslimat kaç gün sürüyo",1
+"sistem hata veriyo bakarmısınız",1
+"modem ayarı nasıl yapılıyo",1
+"üye olmadan alabiliyormuyuz",1
+"hediye çekini nasıl kullanırım",1
+"onay kodu gelmedi tekrar yollayın",1

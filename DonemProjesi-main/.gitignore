@@ -1,0 +1,27 @@
+# Modeller ve büyük dosyalar
+bert_output/
+models/
+bert_gercekveri/
+bert/bert_gercekveri/
+__pycache__/
+*.pth
+*.bin
+*.safetensors
+*.pkl
+
+# Veri klasörü (ses kayıtları, datasetler)
+data/
+temp/
+audio_model/
+*.wav
+
+# Ortam ve gizli bilgiler
+.env
+
+# Python sanal ortam
+venv/
+.venv/
+
+# Node
+node_modules/
+package-lock.json
